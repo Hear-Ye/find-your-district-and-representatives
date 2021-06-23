@@ -1,0 +1,60 @@
+exclude: 'docs|node_modules|.git|.tox'
+default_stages: [commit]
+fail_fast: false
+
+repos:
+  - repo: https://github.com/asottile/pyupgrade
+    rev: 'v2.19.3'
+    hooks:
+    - id: pyupgrade
+      args: ['--py39-plus', '--keep-mock']
+  - repo: https://github.com/timothycrosley/isort
+    rev: 5.9.1
+    hooks:
+      - id: isort
+        args:
+          - "--profile"
+          - "black"
+          - "--filter-files"
+          - "--lines-after-import=2"
+  - repo: https://github.com/psf/black
+    rev: 21.6b0
+    hooks:
+      - id: black
+        args:
+          - "src"
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: 'v4.0.1'
+    hooks:
+    - id: end-of-file-fixer
+      exclude: >-
+        ^docs/[^/]*\.svg$
+    - id: trailing-whitespace
+      types: [python]
+    - id: file-contents-sorter
+      files: |
+        CONTRIBUTORS.txt|
+        docs/spelling_wordlist.txt|
+        .gitignore|
+        .gitattributes
+    - id: check-case-conflict
+    - id: check-json
+    - id: check-xml
+    - id: check-executables-have-shebangs
+    - id: check-toml
+    - id: check-xml
+    - id: check-yaml
+    - id: debug-statements
+    - id: check-added-large-files
+    - id: check-symlinks
+    - id: debug-statements
+    - id: detect-aws-credentials
+      args: ['--allow-missing-credentials']
+    - id: detect-private-key
+      exclude: ^examples|(?:tests/ssl)/
+  - repo: git://github.com/Lucas-C/pre-commit-hooks-markup
+    rev: v1.0.1
+    hooks:
+    - id: rst-linter
+      files: >-
+        ^[^/]+[.]rst$
