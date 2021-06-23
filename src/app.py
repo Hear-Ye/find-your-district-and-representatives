@@ -32,17 +32,30 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 GEOJSON = read_file(BASE_DIR / "districts.geojson")
 
 
+def get_district(index: int) -> str:
+    # Possible to have TypeError if non-voting district
+    # since their GeoJSON isn't valid?
+    return GEOJSON.values[index][0][0]
+
+
 async def find_district(request: "Request"):
     # noinspection PyBroadException
     try:
         data: dict = await request.json()
         point = Point(float(data["longitude"]), float(data["latitude"]))
         index = np.where(GEOJSON.contains(point))[0]
+        return JSONResponse({"district": get_district(index)})
     except IndexError:
-        return JSONResponse({"error": "could not find district"})
+        return JSONResponse({"error": "could not find district"}, status_code=400)
+    except TypeError:
+        return JSONResponse(
+            {
+                "error": "you live in a non voting district. We're working on fixing that as soon as possible"
+            },
+            status_code=400,
+        )
     except Exception:
         return JSONResponse({"error": "could not parse json"}, status_code=400)
-    return JSONResponse({"district": GEOJSON.values[index][0][0]})
 
 
 app = Starlette(
