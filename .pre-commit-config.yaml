@@ -23,6 +23,7 @@ repos:
       - id: black
         args:
           - "src"
+          - "bin"
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: 'v4.0.1'
     hooks:
@@ -46,6 +47,9 @@ repos:
     - id: check-yaml
     - id: debug-statements
     - id: check-added-large-files
+      args:
+        - "--maxkb=22500"
+        - "--enforce-all"
     - id: check-symlinks
     - id: debug-statements
     - id: detect-aws-credentials

@@ -13,7 +13,6 @@
 # limitations under the License.
 
 import os
-from pathlib import Path
 from typing import TYPE_CHECKING
 
 import numpy as np
@@ -23,28 +22,30 @@ from starlette.applications import Starlette
 from starlette.responses import JSONResponse
 from starlette.routing import Route
 
+from src.config import BASE_DIR
+from src.exceptions import NotFoundError, ValidationError
+from src.representatives import get_federal_representatives
+
 
 if TYPE_CHECKING:
     from starlette.requests import Request
-
-BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 # Only 16-25kb of memory
 GEOJSON = read_file(BASE_DIR / "districts.geojson")
 
 
-def get_district(index: int) -> str:
+def get_federal_district(index: int) -> str:
     # Possible to have TypeError if non-voting district
     # since their GeoJSON isn't valid?
     return GEOJSON.values[index][0][0]
 
 
+# noinspection PyBroadException
 async def find_district(request: "Request"):
-    # noinspection PyBroadException
     try:
         data: dict = await request.json()
         point = Point(float(data["longitude"]), float(data["latitude"]))
         index = np.where(GEOJSON.contains(point))[0]
-        return JSONResponse({"district": get_district(index)})
+        return JSONResponse({"district": get_federal_district(index)})
     except IndexError:
         return JSONResponse({"error": "could not find district"}, status_code=400)
     except TypeError:
@@ -58,7 +59,29 @@ async def find_district(request: "Request"):
         return JSONResponse({"error": "could not parse json"}, status_code=400)
 
 
-app = Starlette(
-    debug=os.environ.get("DEBUG", False),
-    routes=[Route("/find-district", find_district)],
+# noinspection PyBroadException
+async def find_representatives(request: "Request"):
+    """Gets user's current senators and district representative"""
+    try:
+        data: dict = await request.json()
+        return JSONResponse(
+            get_federal_representatives(
+                data["state"],
+                data.get("district"),
+                all_house=data.get("all_house"),
+                all_house_regardless=data.get("all_house_regardless"),
+            )
+        )
+    except (NotFoundError, ValidationError) as e:
+        return JSONResponse({"error": e}, status_code=400)
+    except Exception:
+        return JSONResponse({"error": "could not parse json"}, status_code=400)
+
+
+app = Starlette(  # I'm too lazy to setup python-dotenv...
+    debug=os.environ.get("DEBUG") != "False",
+    routes=[
+        Route("/find-district", find_district),
+        Route("/find-representative", find_representatives),
+    ],
 )

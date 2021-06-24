@@ -1,7 +1,12 @@
 -r base.txt
 
+# Linters
 black==21.6b0  # https://github.com/psf/black
 isort==5.9.1  # https://pycqa.github.io/isort/
 pre-commit==2.13.0  # https://pre-commit.com/
+
+# Reloading dev environment
 watchgod==0.7  # https://github.com/samuelcolvin/watchgod
+
+# Testing
 pytest==6.2.4  # https://github.com/pytest-dev/pytest

@@ -1,11 +1,13 @@
-# Find Your District
+# Find Your District + Representatives
 
 Created by: [Andrew Chen Wang](https://github.com/Andrew-Chen-Wang)
 
 Created on: 23 June 2021
 
 This Starlette app, given geographic coordinates,
-gets a user their coordinates
+gets a user which federal district they're in. 
+Users can also find their representative through
+here.
 
 ---
 ### Usage
@@ -33,11 +35,6 @@ to provide this data. Really appreciate it!
 ### TODOs
 
 - Automate deployment along with cron job
-- Add "find representative" here, as well
-  for the sake of open source, open knowledge.
-  The exception is that this route will not be
-  publicly available I think since I don't want
-  to crash the server. We'll see :)
 - Add throttling by IP address. It's really not
   necessary for an attacker to come unless they
   have the sole mission of ruining the server.
