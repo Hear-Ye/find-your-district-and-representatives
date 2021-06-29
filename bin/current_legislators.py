@@ -17,7 +17,7 @@ import json
 import os
 from copy import deepcopy
 from pathlib import Path
-from typing import Optional, Tuple, Union
+from typing import Optional, Union
 
 import requests
 
@@ -65,6 +65,7 @@ def run(url="https://theunitedstates.io/congress-legislators/legislators-current
     # Put it in an optimized order
     with (BASE_DIR / "legislators-current.json").open("w") as f:
         json.dump(order_file(data), f, indent=0 if os.environ.get("CI") else 2)
+        f.write("\n")
 
 
 if __name__ == "__main__":
