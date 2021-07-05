@@ -11,8 +11,8 @@ jobs:
     - uses: actions/checkout@v2
     - uses: Andrew-Chen-Wang/district-autoupdate@v1.0.1
       with:
-        districts-repo: Andrew-Chen-Wang/districts
-        tag-branch: non-voting-geojson-update
+        districts-repo: 'Andrew-Chen-Wang/districts'
+        tag-branch: 'non-voting-geojson-update'
         path: ${{ github.workspace }}/districts.geojson
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:

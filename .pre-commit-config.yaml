@@ -29,7 +29,7 @@ repos:
     hooks:
     - id: end-of-file-fixer
       exclude: >-
-        ^docs/[^/]*\.svg$
+        ^docs/[^/]*\.svg$|districts.geojson
     - id: trailing-whitespace
       types: [python]
     - id: file-contents-sorter
