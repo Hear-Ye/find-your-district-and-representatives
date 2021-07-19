@@ -1,4 +1,4 @@
-starlette==0.14.2  # https://www.starlette.io
+starlette==0.16.0  # https://www.starlette.io
 uvicorn==0.14.0  # https://www.uvicorn.org
 aiofiles==0.7.0  # https://github.com/Tinche/aiofiles
 Rtree==0.9.7  # https://github.com/Toblerity/rtree
