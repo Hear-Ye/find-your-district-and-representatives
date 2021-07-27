@@ -3171,6 +3171,7 @@
 "fec": [
 "H0WA10034"
 ],
+"opensecrets": "N00046320",
 "govtrack": 456854,
 "wikidata": "Q1898180",
 "wikipedia": "Marilyn Strickland",
@@ -6435,6 +6436,10 @@
 "id": {
 "bioguide": "P000145",
 "lis": "S413",
+"fec": [
+"S2CA00955"
+],
+"opensecrets": "N00047888",
 "govtrack": 456856,
 "wikipedia": "Alex Padilla",
 "wikidata": "Q4717593",
@@ -12326,6 +12331,7 @@
 "fec": [
 "H0CA08135"
 ],
+"opensecrets": "N00045377",
 "govtrack": 456801,
 "wikidata": "Q16849797",
 "wikipedia": "Jay Obernolte",
@@ -12363,6 +12369,7 @@
 "fec": [
 "H8CA39240"
 ],
+"opensecrets": "N00042386",
 "govtrack": 456802,
 "wikidata": "Q19662859",
 "wikipedia": "Young Kim",
@@ -12400,6 +12407,7 @@
 "fec": [
 "H0CA48198"
 ],
+"opensecrets": "N00044501",
 "govtrack": 456803,
 "wikidata": "Q6837200",
 "wikipedia": "Michelle Steel",
@@ -12434,8 +12442,9 @@
 "id": {
 "bioguide": "J000305",
 "fec": [
-"H0CA53115"
+"H8CA49074"
 ],
+"opensecrets": "N00042081",
 "govtrack": 456804,
 "wikidata": "Q50825637",
 "wikipedia": "Sara Jacobs",
@@ -13134,6 +13143,7 @@
 "fec": [
 "H0MN07091"
 ],
+"opensecrets": "N00045251",
 "govtrack": 456828,
 "wikidata": "Q6837025",
 "wikipedia": "Michelle Fischbach",
@@ -16464,6 +16474,7 @@
 "fec": [
 "H0MI03308"
 ],
+"opensecrets": "N00044884",
 "govtrack": 456826,
 "wikidata": "Q96419165",
 "wikipedia": "Peter Meijer",
@@ -16500,6 +16511,7 @@
 "fec": [
 "H0MI10287"
 ],
+"opensecrets": "N00045730",
 "govtrack": 456827,
 "wikidata": "Q102184540",
 "wikipedia": "Lisa McClain",
@@ -16691,6 +16703,7 @@
 "fec": [
 "H4MT00050"
 ],
+"opensecrets": "N00035517",
 "govtrack": 456830,
 "wikidata": "Q6791163",
 "wikipedia": "Matt Rosendale",
@@ -21782,6 +21795,7 @@
 "fec": [
 "H0TX04219"
 ],
+"opensecrets": "N00047264",
 "govtrack": 456845,
 "wikidata": "Q16196923",
 "wikipedia": "Pat Fallon",
@@ -21819,6 +21833,7 @@
 "fec": [
 "H0TX11230"
 ],
+"opensecrets": "N00045421",
 "govtrack": 456846,
 "wikidata": "Q101196462",
 "wikipedia": "August Pfluger",
@@ -21856,6 +21871,7 @@
 "fec": [
 "H0TX13228"
 ],
+"opensecrets": "N00046055",
 "govtrack": 456847,
 "wikidata": "Q47270118",
 "wikipedia": "Ronny Jackson",
@@ -21893,6 +21909,7 @@
 "fec": [
 "H0TX22302"
 ],
+"opensecrets": "N00046067",
 "govtrack": 456848,
 "wikidata": "Q96741441",
 "wikipedia": "Troy Nehls",
@@ -21931,6 +21948,7 @@
 "fec": [
 "H0TX35015"
 ],
+"opensecrets": "N00044592",
 "govtrack": 456849,
 "wikidata": "",
 "google_entity_id": "kg:/g/11fs52clcr"
@@ -21967,6 +21985,7 @@
 "fec": [
 "H0TX24209"
 ],
+"opensecrets": "N00045167",
 "govtrack": 456850,
 "wikidata": "Q66309702",
 "wikipedia": "Beth Van Duyne",
@@ -23961,6 +23980,7 @@
 "fec": [
 "H8IL03102"
 ],
+"opensecrets": "N00040891",
 "govtrack": 456819,
 "wikidata": "Q47960940",
 "wikipedia": "Marie Newman",
@@ -23996,6 +24016,7 @@
 "fec": [
 "H0IL15129"
 ],
+"opensecrets": "N00045703",
 "govtrack": 456820,
 "wikidata": "Q101204553",
 "wikipedia": "Mary Miller (politician)",
@@ -24956,6 +24977,7 @@
 "fec": [
 "H0SC01394"
 ],
+"opensecrets": "N00035670",
 "govtrack": 456843,
 "wikidata": "Q6962831",
 "wikipedia": "Nancy Mace",
@@ -25731,6 +25753,7 @@
 "fec": [
 "H0OK05205"
 ],
+"opensecrets": "N00044579",
 "govtrack": 456841,
 "wikidata": "Q60190894",
 "wikipedia": "Stephanie Bice",
@@ -27664,6 +27687,7 @@
 "fec": [
 "H0OR02127"
 ],
+"opensecrets": "N00045773",
 "govtrack": 456842,
 "wikidata": "Q5132536",
 "wikipedia": "Cliff Bentz",
@@ -29457,6 +29481,7 @@
 "fec": [
 "H0VA05160"
 ],
+"opensecrets": "N00045557",
 "govtrack": 456853,
 "wikidata": "Q103850475",
 "wikipedia": "Bob Good",
@@ -32036,6 +32061,7 @@
 "fec": [
 "H0NY02234"
 ],
+"opensecrets": "N00046030",
 "govtrack": 456836,
 "wikidata": "Q21257859",
 "wikipedia": "Andrew Garbarino",
@@ -32072,6 +32098,7 @@
 "fec": [
 "H0NY11078"
 ],
+"opensecrets": "N00044040",
 "govtrack": 456837,
 "wikidata": "Q7030112",
 "wikipedia": "Nicole Malliotakis",
@@ -32107,6 +32134,7 @@
 "fec": [
 "H0NY15160"
 ],
+"opensecrets": "N00044346",
 "govtrack": 456838,
 "wikidata": "Q16205227",
 "wikipedia": "Ritchie Torres",
@@ -32144,6 +32172,7 @@
 "fec": [
 "H0NY16143"
 ],
+"opensecrets": "N00044790",
 "govtrack": 456839,
 "wikidata": "Q96419280",
 "wikipedia": "Jamaal Bowman",
@@ -32180,6 +32209,7 @@
 "fec": [
 "H0NY17174"
 ],
+"opensecrets": "N00044908",
 "govtrack": 456840,
 "wikidata": "Q96781248",
 "wikipedia": "Mondaire Jones",
@@ -33442,6 +33472,7 @@
 "fec": [
 "S0AL00230"
 ],
+"opensecrets": "N00044434",
 "govtrack": 456796,
 "wikidata": "Q7819948",
 "wikipedia": "Tommy Tuberville",
@@ -33577,6 +33608,7 @@
 "fec": [
 "H0AL01055"
 ],
+"opensecrets": "N00044245",
 "govtrack": 456799,
 "wikidata": "Q102277702",
 "wikipedia": "Jerry Carl",
@@ -33614,6 +33646,7 @@
 "fec": [
 "H8AL02171"
 ],
+"opensecrets": "N00041295",
 "govtrack": 456800,
 "wikidata": "Q63198048",
 "wikipedia": "Barry Moore (Alabama politician)",
@@ -34514,6 +34547,7 @@
 "fec": [
 "H0WI05113"
 ],
+"opensecrets": "N00045434",
 "govtrack": 456855,
 "wikidata": "Q7436650",
 "wikipedia": "Scott L. Fitzgerald",
@@ -34629,6 +34663,7 @@
 "fec": [
 "S0CO00575"
 ],
+"opensecrets": "N00044206",
 "govtrack": 456797,
 "wikidata": "Q430518",
 "wikipedia": "John Hickenlooper",
@@ -35294,6 +35329,7 @@
 "fec": [
 "H0CO03165"
 ],
+"opensecrets": "N00045974",
 "govtrack": 456805,
 "wikidata": "Q96761544",
 "wikipedia": "Lauren Boebert",
@@ -37421,6 +37457,7 @@
 "fec": [
 "H0FL03175"
 ],
+"opensecrets": "N00045978",
 "govtrack": 456806,
 "wikidata": "Q98523243",
 "wikipedia": "Kat Cammack",
@@ -37457,6 +37494,7 @@
 "fec": [
 "H0FL15104"
 ],
+"opensecrets": "N00046760",
 "govtrack": 456807,
 "wikidata": "Q101198561",
 "wikipedia": "Scott Franklin (politician)",
@@ -37493,6 +37531,7 @@
 "fec": [
 "H0FL19205"
 ],
+"opensecrets": "N00034016",
 "govtrack": 456808,
 "wikidata": "Q59726216",
 "wikipedia": "Byron Donalds",
@@ -37529,6 +37568,7 @@
 "fec": [
 "H0FL26036"
 ],
+"opensecrets": "N00046394",
 "govtrack": 456809,
 "wikidata": "Q5041653",
 "wikipedia": "Carlos A. Gim\u00e9nez",
@@ -37567,6 +37607,7 @@
 "fec": [
 "H8FL27185"
 ],
+"opensecrets": "N00042810",
 "govtrack": 456810,
 "wikidata": "Q6003715",
 "wikipedia": "Maria Elvira Salazar",
@@ -38642,6 +38683,7 @@
 "fec": [
 "H0GA05301"
 ],
+"opensecrets": "N00047361",
 "govtrack": 456811,
 "wikidata": "Q56486570",
 "wikipedia": "Nikema Williams",
@@ -38679,6 +38721,7 @@
 "fec": [
 "H8GA07201"
 ],
+"opensecrets": "N00041791",
 "govtrack": 456812,
 "wikidata": "Q58333638",
 "wikipedia": "Carolyn Bourdeaux",
@@ -38715,6 +38758,7 @@
 "fec": [
 "H0GA09246"
 ],
+"opensecrets": "N00046654",
 "govtrack": 456813,
 "wikidata": "Q102277679",
 "wikipedia": "Andrew Clyde",
@@ -38751,6 +38795,7 @@
 "fec": [
 "H0GA06192"
 ],
+"opensecrets": "N00044701",
 "govtrack": 456814,
 "wikidata": "Q98380406",
 "wikipedia": "Marjorie Taylor Greene",
@@ -38791,6 +38836,7 @@
 "H8GA06195",
 "S8GA00180"
 ],
+"opensecrets": "N00040675",
 "govtrack": 456857,
 "wikipedia": "Jon Ossoff",
 "wikidata": "Q28839536",
@@ -38829,6 +38875,7 @@
 "fec": [
 "S0GA00559"
 ],
+"opensecrets": "N00046489",
 "govtrack": 456858,
 "wikipedia": "Raphael Warnock",
 "wikidata": "Q84146599",
@@ -39015,6 +39062,7 @@
 "fec": [
 "S0TN00169"
 ],
+"opensecrets": "N00045369",
 "govtrack": 456798,
 "wikidata": "Q27734214",
 "wikipedia": "Bill Hagerty (politician)",
@@ -39840,6 +39888,7 @@
 "fec": [
 "H0TN01118"
 ],
+"opensecrets": "N00046688",
 "govtrack": 456844,
 "wikidata": "Q101197341",
 "wikipedia": "Diana Harshbarger",
@@ -41756,6 +41805,7 @@
 "fec": [
 "H8MO01143"
 ],
+"opensecrets": "N00039373",
 "govtrack": 456829,
 "wikidata": "Q98084800",
 "wikipedia": "Cori Bush",
@@ -43093,6 +43143,7 @@
 "fec": [
 "H0IN01150"
 ],
+"opensecrets": "N00045905",
 "govtrack": 456821,
 "wikidata": "Q96077897",
 "wikipedia": "Frank J. Mrvan",
@@ -43129,6 +43180,7 @@
 "fec": [
 "H0IN05326"
 ],
+"opensecrets": "N00046537",
 "govtrack": 456822,
 "wikidata": "Q44059867",
 "wikipedia": "Victoria Spartz",
@@ -44439,6 +44491,7 @@
 "fec": [
 "H0NC02125"
 ],
+"opensecrets": "N00038565",
 "govtrack": 456831,
 "wikidata": "Q5248285",
 "wikipedia": "Deborah K. Ross",
@@ -44476,6 +44529,7 @@
 "fec": [
 "H8NC13067"
 ],
+"opensecrets": "N00042159",
 "govtrack": 456832,
 "wikidata": "Q101136890",
 "wikipedia": "Kathy Manning",
@@ -44512,6 +44566,7 @@
 "fec": [
 "H0NC11233"
 ],
+"opensecrets": "N00046252",
 "govtrack": 456833,
 "wikidata": "Q96633736",
 "wikipedia": "Madison Cawthorn",
@@ -45080,6 +45135,7 @@
 "fec": [
 "H2LA05126"
 ],
+"opensecrets": "N00047972",
 "govtrack": 456859,
 "wikipedia": "Julia Letlow",
 "wikidata": "Q106089241",
@@ -45115,6 +45171,7 @@
 "fec": [
 "H2LA02149"
 ],
+"opensecrets": "N00025766",
 "govtrack": 456860,
 "wikipedia": "Troy Carter (politician)",
 "wikidata": "Q7846787",
@@ -46827,6 +46884,7 @@
 "fec": [
 "H0IA01174"
 ],
+"opensecrets": "N00044521",
 "govtrack": 456816,
 "wikidata": "Q60713905",
 "wikipedia": "Ashley Hinson",
@@ -46864,6 +46922,7 @@
 "fec": [
 "H8IA02043"
 ],
+"opensecrets": "N00029495",
 "govtrack": 456817,
 "wikidata": "Q58495662",
 "wikipedia": "Mariannette Miller-Meeks",
@@ -46902,6 +46961,7 @@
 "fec": [
 "H0IA04145"
 ],
+"opensecrets": "N00044011",
 "govtrack": 456818,
 "wikidata": "Q7292187",
 "wikipedia": "Randy Feenstra",
@@ -47165,6 +47225,7 @@
 "fec": [
 "H8NM02156"
 ],
+"opensecrets": "N00041454",
 "govtrack": 456834,
 "wikidata": "Q16225780",
 "wikipedia": "Yvette Herrell",
@@ -47202,6 +47263,7 @@
 "fec": [
 "H0NM03102"
 ],
+"opensecrets": "N00044559",
 "govtrack": 456835,
 "wikidata": "Q96054905",
 "wikipedia": "Teresa Leger Fernandez",
@@ -47237,6 +47299,7 @@
 "fec": [
 "H2NM01144"
 ],
+"opensecrets": "N00047871",
 "govtrack": 456861,
 "wikipedia": "Melanie Stansbury",
 "wikidata": "Q96184996",
@@ -47522,6 +47585,7 @@
 "fec": [
 "H0HI02155"
 ],
+"opensecrets": "N00044007",
 "govtrack": 456815,
 "wikidata": "Q28861508",
 "wikipedia": "Kai Kahele",
@@ -49033,6 +49097,7 @@
 "fec": [
 "H0MA04192"
 ],
+"opensecrets": "N00045506",
 "govtrack": 456825,
 "wikidata": "Q101196632",
 "wikipedia": "Jake Auchincloss",
@@ -49342,6 +49407,7 @@
 "fec": [
 "H0UT01205"
 ],
+"opensecrets": "N00046598",
 "govtrack": 456851,
 "wikidata": "Q101196971",
 "wikipedia": "Blake Moore",
@@ -49378,6 +49444,7 @@
 "fec": [
 "H0UT04076"
 ],
+"opensecrets": "N00045812",
 "govtrack": 456852,
 "wikidata": "Q4998602",
 "wikipedia": "Burgess Owens",
@@ -49731,6 +49798,7 @@
 "fec": [
 "H0KS01123"
 ],
+"opensecrets": "N00030743",
 "govtrack": 456823,
 "wikidata": "Q48767554",
 "wikipedia": "Tracey Mann",
@@ -49767,6 +49835,7 @@
 "fec": [
 "H0KS02188"
 ],
+"opensecrets": "N00044232",
 "govtrack": 456824,
 "wikidata": "Q16731273",
 "wikipedia": "Jake LaTurner",
