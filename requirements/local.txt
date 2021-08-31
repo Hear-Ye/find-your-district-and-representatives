@@ -9,4 +9,4 @@ pre-commit==2.14.0  # https://pre-commit.com/
 watchgod==0.7  # https://github.com/samuelcolvin/watchgod
 
 # Testing
-pytest==6.2.4  # https://github.com/pytest-dev/pytest
+pytest==6.2.5  # https://github.com/pytest-dev/pytest
