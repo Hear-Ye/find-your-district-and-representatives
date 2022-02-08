@@ -1973,7 +1973,8 @@
 "name": {
 "first": "Shontel",
 "middle": "M.",
-"last": "Brown"
+"last": "Brown",
+"official_full": "Shontel M. Brown"
 },
 "bio": {
 "gender": "F",
@@ -1986,7 +1987,11 @@
 "end": "2023-01-03",
 "state": "OH",
 "district": 11,
-"party": "Democrat"
+"party": "Democrat",
+"url": "https://shontelbrown.house.gov",
+"address": "2344 Rayburn House Office Building Washington DC 20515-3511",
+"office": "2344 Rayburn House Office Building",
+"phone": "202-225-7032"
 }
 ]
 },
@@ -2002,7 +2007,8 @@
 },
 "name": {
 "first": "Mike",
-"last": "Carey"
+"last": "Carey",
+"official_full": "Mike Carey"
 },
 "bio": {
 "gender": "M",
@@ -2015,7 +2021,10 @@
 "end": "2023-01-03",
 "state": "OH",
 "district": 15,
-"party": "Republican"
+"party": "Republican",
+"address": "2234 Rayburn House Office Building Washington DC 20515-3515",
+"office": "2234 Rayburn House Office Building",
+"phone": "202-225-2015"
 }
 ]
 }
@@ -2216,12 +2225,12 @@
 "class": 3,
 "state_rank": "senior",
 "party": "Democrat",
-"url": "https://www.murray.senate.gov/public",
+"url": "https://www.murray.senate.gov",
 "rss_url": "http://www.murray.senate.gov/public/?a=rss.feed",
 "address": "154 Russell Senate Office Building Washington DC 20510",
 "office": "154 Russell Senate Office Building",
 "phone": "202-224-2621",
-"contact_form": "https://www.murray.senate.gov/public/index.cfm/contactme",
+"contact_form": "https://www.murray.senate.gov/write-to-patty/",
 "fax": "202-224-0238"
 }
 ]
@@ -4269,7 +4278,7 @@
 "first": "Anthony",
 "middle": "G.",
 "last": "Brown",
-"official_full": "Anthony Brown"
+"official_full": "Anthony G. Brown"
 },
 "bio": {
 "gender": "M",
@@ -6528,7 +6537,7 @@
 "office": "112 Hart Senate Office Building",
 "phone": "202-224-3553",
 "url": "https://www.padilla.senate.gov",
-"contact_form": "https://www.padilla.senate.gov"
+"contact_form": "https://www.padilla.senate.gov/contact/"
 }
 ]
 }
@@ -17390,7 +17399,7 @@
 "state_rank": "junior",
 "party": "Republican",
 "url": "https://www.lummis.senate.gov",
-"contact_form": "https://www.lummis.senate.gov",
+"contact_form": "https://www.lummis.senate.gov/contact/contact-form/",
 "address": "124 Russell Senate Office Building Washington DC 20510",
 "office": "124 Russell Senate Office Building",
 "phone": "202-224-3424"
@@ -33448,7 +33457,7 @@
 "state_rank": "junior",
 "party": "Republican",
 "url": "https://www.tuberville.senate.gov",
-"contact_form": "https://www.tuberville.senate.gov",
+"contact_form": "https://www.tuberville.senate.gov/contact/contact-form/",
 "address": "142 Russell Senate Office Building Washington DC 20510",
 "office": "142 Russell Senate Office Building",
 "phone": "202-224-4124"
@@ -34638,7 +34647,7 @@
 "state_rank": "junior",
 "party": "Democrat",
 "url": "https://www.hickenlooper.senate.gov",
-"contact_form": "https://www.hickenlooper.senate.gov",
+"contact_form": "https://www.hickenlooper.senate.gov/contact/",
 "address": "374 Russell Senate Office Building Washington DC 20510",
 "office": "374 Russell Senate Office Building",
 "phone": "202-224-5941"
@@ -36227,7 +36236,7 @@
 "address": "502 Hart Senate Office Building Washington DC 20510",
 "office": "502 Hart Senate Office Building",
 "phone": "202-224-5274",
-"contact_form": "https://www.rickscott.senate.gov/contact_rick"
+"contact_form": "https://www.rickscott.senate.gov/contact/contact"
 }
 ]
 }
@@ -37599,7 +37608,8 @@
 },
 "name": {
 "first": "Sheila",
-"last": "Cherfilus-McCormick"
+"last": "Cherfilus-McCormick",
+"official_full": "Sheila Cherfilus-McCormick"
 },
 "bio": {
 "gender": "F",
@@ -37612,7 +37622,10 @@
 "end": "2023-01-03",
 "state": "FL",
 "district": 20,
-"party": "Democrat"
+"party": "Democrat",
+"address": "2365 Rayburn House Office Building Washington DC 20515-0920",
+"office": "2365 Rayburn House Office Building",
+"phone": "202-225-1313"
 }
 ]
 }
@@ -38841,7 +38854,7 @@
 "office": "455 Russell Senate Office Building",
 "phone": "202-224-3521",
 "url": "https://www.ossoff.senate.gov",
-"contact_form": "https://www.ossoff.senate.gov"
+"contact_form": "https://www.ossoff.senate.gov/contact-us/"
 }
 ]
 },
@@ -38882,7 +38895,7 @@
 "office": "388 Russell Senate Office Building",
 "phone": "202-224-3643",
 "url": "https://www.warnock.senate.gov",
-"contact_form": "https://www.warnock.senate.gov"
+"contact_form": "https://www.warnock.senate.gov/contact/"
 }
 ]
 }
@@ -39067,7 +39080,7 @@
 "state_rank": "junior",
 "party": "Republican",
 "url": "https://www.hagerty.senate.gov",
-"contact_form": "https://www.hagerty.senate.gov",
+"contact_form": "https://www.hagerty.senate.gov/email-me/",
 "address": "248 Russell Senate Office Building Washington DC 20510",
 "office": "248 Russell Senate Office Building",
 "phone": "202-224-4944"
@@ -43301,7 +43314,7 @@
 "address": "217 Russell Senate Office Building Washington DC 20510",
 "office": "217 Russell Senate Office Building",
 "phone": "202-224-3154",
-"contact_form": "https://www.burr.senate.gov/contact/email",
+"contact_form": "https://www.burr.senate.gov/contact",
 "fax": "202-228-2981"
 }
 ]
@@ -47188,7 +47201,7 @@
 "state_rank": "junior",
 "party": "Democrat",
 "url": "https://www.lujan.senate.gov",
-"contact_form": "https://www.lujan.senate.gov",
+"contact_form": "https://www.lujan.senate.gov/contact/",
 "address": "498 Russell Senate Office Building Washington DC 20510",
 "office": "498 Russell Senate Office Building",
 "phone": "202-224-6621"
@@ -49644,7 +49657,7 @@
 "state_rank": "junior",
 "party": "Republican",
 "url": "https://www.marshall.senate.gov",
-"contact_form": "https://www.marshall.senate.gov",
+"contact_form": "https://www.marshall.senate.gov/contact/",
 "address": "479A Russell Senate Office Building Washington DC 20510",
 "office": "479a Russell Senate Office Building",
 "phone": "202-224-4774"
