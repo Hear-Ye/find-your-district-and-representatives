@@ -20708,106 +20708,6 @@
 }
 ]
 },
-"34": {
-"id": {
-"govtrack": 412580,
-"bioguide": "V000132",
-"thomas": "02167",
-"cspan": 95434,
-"fec": [
-"H2TX27190"
-],
-"votesmart": 137719,
-"wikipedia": "Filemon Vela Jr.",
-"opensecrets": "N00034349",
-"ballotpedia": "Filemon Vela",
-"maplight": 1804,
-"icpsr": 21366,
-"wikidata": "Q4069225",
-"google_entity_id": "kg:/m/0ll43fz"
-},
-"name": {
-"first": "Filemon",
-"last": "Vela",
-"official_full": "Filemon Vela"
-},
-"bio": {
-"gender": "M",
-"birthday": "1963-02-13"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2013-01-03",
-"end": "2015-01-03",
-"state": "TX",
-"party": "Democrat",
-"district": 34,
-"office": "437 Cannon House Office Building",
-"address": "437 Cannon HOB; Washington DC 20515-4334",
-"phone": "202-225-9901",
-"url": "http://vela.house.gov",
-"rss_url": "http://vela.house.gov/rss.xml",
-"contact_form": "https://forms.house.gov/vela/webforms/email-me.shtml",
-"fax": "202-225-9770"
-},
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "TX",
-"party": "Democrat",
-"district": 34,
-"office": "437 Cannon House Office Building",
-"address": "437 Cannon HOB; Washington DC 20515-4334",
-"phone": "202-225-9901",
-"url": "http://vela.house.gov",
-"rss_url": "http://vela.house.gov/rss.xml",
-"contact_form": "https://forms.house.gov/vela/webforms/email-me.shtml",
-"fax": "202-225-9770"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "TX",
-"district": 34,
-"party": "Democrat",
-"phone": "202-225-9901",
-"url": "https://vela.house.gov",
-"rss_url": "http://vela.house.gov/rss.xml",
-"address": "437 Cannon House Office Building; Washington DC 20515-4334",
-"office": "437 Cannon House Office Building",
-"fax": "202-225-9770"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "TX",
-"district": 34,
-"party": "Democrat",
-"phone": "202-225-9901",
-"address": "307 Cannon House Office Building Washington DC 20515-4334",
-"office": "307 Cannon House Office Building",
-"url": "https://vela.house.gov",
-"rss_url": "http://vela.house.gov/rss.xml"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "TX",
-"district": 34,
-"party": "Democrat",
-"url": "https://vela.house.gov",
-"rss_url": "http://vela.house.gov/rss.xml",
-"address": "307 Cannon House Office Building Washington DC 20515-4334",
-"office": "307 Cannon House Office Building",
-"phone": "202-225-9901"
-}
-]
-},
 "36": {
 "id": {
 "bioguide": "B001291",
@@ -45145,474 +45045,6 @@
 ]
 }
 },
-"NE": {
-"1": {
-"id": {
-"bioguide": "F000449",
-"thomas": "01793",
-"govtrack": 400640,
-"opensecrets": "N00026631",
-"votesmart": 41929,
-"fec": [
-"H4NE01064"
-],
-"cspan": 1013049,
-"wikipedia": "Jeff Fortenberry",
-"house_history": 13545,
-"ballotpedia": "Jeff Fortenberry",
-"maplight": 646,
-"icpsr": 20518,
-"wikidata": "Q1397331",
-"google_entity_id": "kg:/m/04fcch"
-},
-"name": {
-"first": "Jeff",
-"middle": "Lane",
-"last": "Fortenberry",
-"official_full": "Jeff Fortenberry"
-},
-"bio": {
-"gender": "M",
-"birthday": "1960-12-27"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2005-01-04",
-"end": "2007-01-03",
-"state": "NE",
-"district": 1,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "2007-01-04",
-"end": "2009-01-03",
-"state": "NE",
-"district": 1,
-"party": "Republican",
-"url": "http://fortenberry.house.gov"
-},
-{
-"type": "rep",
-"start": "2009-01-06",
-"end": "2011-01-03",
-"state": "NE",
-"district": 1,
-"party": "Republican",
-"url": "http://fortenberry.house.gov"
-},
-{
-"type": "rep",
-"start": "2011-01-05",
-"end": "2013-01-03",
-"state": "NE",
-"district": 1,
-"party": "Republican",
-"url": "http://fortenberry.house.gov",
-"address": "1514 Longworth HOB; Washington DC 20515-2701",
-"phone": "202-225-4806",
-"fax": "202-225-5686",
-"contact_form": "http://fortenberry.house.gov/contactform_zipcheck.shtml",
-"office": "1514 Longworth House Office Building"
-},
-{
-"type": "rep",
-"start": "2013-01-03",
-"end": "2015-01-03",
-"state": "NE",
-"party": "Republican",
-"district": 1,
-"url": "http://fortenberry.house.gov",
-"address": "1514 Longworth HOB; Washington DC 20515-2701",
-"phone": "202-225-4806",
-"fax": "202-225-5686",
-"contact_form": "https://fortenberry.house.gov/contact-me1",
-"office": "1514 Longworth House Office Building",
-"rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss"
-},
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "NE",
-"party": "Republican",
-"district": 1,
-"url": "https://fortenberry.house.gov",
-"address": "1514 Longworth HOB; Washington DC 20515-2701",
-"phone": "202-225-4806",
-"fax": "202-225-5686",
-"contact_form": "https://fortenberry.house.gov/contact-me1",
-"office": "1514 Longworth House Office Building",
-"rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NE",
-"district": 1,
-"party": "Republican",
-"phone": "202-225-4806",
-"url": "https://fortenberry.house.gov",
-"rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss",
-"address": "1514 Longworth House Office Building; Washington DC 20515-2701",
-"office": "1514 Longworth House Office Building",
-"fax": "202-225-5686"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NE",
-"district": 1,
-"party": "Republican",
-"phone": "202-225-4806",
-"address": "1514 Longworth House Office Building Washington DC 20515-2701",
-"office": "1514 Longworth House Office Building",
-"url": "https://fortenberry.house.gov",
-"rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NE",
-"district": 1,
-"party": "Republican",
-"url": "https://fortenberry.house.gov",
-"rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss",
-"address": "1514 Longworth House Office Building Washington DC 20515-2701",
-"office": "1514 Longworth House Office Building",
-"phone": "202-225-4806"
-}
-]
-},
-"3": {
-"id": {
-"bioguide": "S001172",
-"thomas": "01860",
-"govtrack": 412217,
-"opensecrets": "N00027623",
-"votesmart": 21284,
-"fec": [
-"H6NE03115"
-],
-"cspan": 1022845,
-"wikipedia": "Adrian Smith (politician)",
-"ballotpedia": "Adrian Smith",
-"maplight": 702,
-"icpsr": 20729,
-"house_history": 22600,
-"wikidata": "Q373443",
-"google_entity_id": "kg:/m/0c505n"
-},
-"name": {
-"first": "Adrian",
-"last": "Smith",
-"official_full": "Adrian Smith"
-},
-"bio": {
-"birthday": "1970-12-19",
-"gender": "M"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2007-01-04",
-"end": "2009-01-03",
-"state": "NE",
-"district": 3,
-"party": "Republican",
-"url": "http://adriansmith.house.gov"
-},
-{
-"type": "rep",
-"start": "2009-01-06",
-"end": "2011-01-03",
-"state": "NE",
-"district": 3,
-"party": "Republican",
-"url": "http://adriansmith.house.gov"
-},
-{
-"type": "rep",
-"start": "2011-01-05",
-"end": "2013-01-03",
-"state": "NE",
-"district": 3,
-"party": "Republican",
-"url": "http://adriansmith.house.gov",
-"address": "503 Cannon HOB; Washington DC 20515-2703",
-"phone": "202-225-6435",
-"fax": "202-225-0207",
-"contact_form": "http://www.house.gov/formadriansmith/issues_subscribe.htm",
-"office": "503 Cannon House Office Building"
-},
-{
-"type": "rep",
-"start": "2013-01-03",
-"end": "2015-01-03",
-"state": "NE",
-"party": "Republican",
-"district": 3,
-"url": "http://adriansmith.house.gov",
-"address": "2241 Rayburn HOB; Washington DC 20515-2703",
-"phone": "202-225-6435",
-"fax": "202-225-0207",
-"contact_form": "https://adriansmith.house.gov/contact-me/email-me",
-"office": "2241 Rayburn House Office Building",
-"rss_url": "http://adriansmith.house.gov/rss.xml"
-},
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "NE",
-"party": "Republican",
-"district": 3,
-"url": "http://adriansmith.house.gov",
-"address": "2241 Rayburn HOB; Washington DC 20515-2703",
-"phone": "202-225-6435",
-"fax": "202-225-0207",
-"contact_form": "https://adriansmith.house.gov/contact-me/email-me",
-"office": "2241 Rayburn House Office Building",
-"rss_url": "http://adriansmith.house.gov/rss.xml"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NE",
-"district": 3,
-"party": "Republican",
-"phone": "202-225-6435",
-"url": "https://adriansmith.house.gov",
-"rss_url": "http://adriansmith.house.gov/rss.xml",
-"address": "320 Cannon House Office Building; Washington DC 20515-2703",
-"office": "320 Cannon House Office Building",
-"fax": "202-225-0207"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NE",
-"district": 3,
-"party": "Republican",
-"phone": "202-225-6435",
-"address": "502 Cannon House Office Building Washington DC 20515-2703",
-"office": "502 Cannon House Office Building",
-"url": "https://adriansmith.house.gov",
-"rss_url": "http://adriansmith.house.gov/rss.xml"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NE",
-"district": 3,
-"party": "Republican",
-"url": "https://adriansmith.house.gov",
-"rss_url": "http://adriansmith.house.gov/rss.xml",
-"address": "502 Cannon House Office Building Washington DC 20515-2703",
-"office": "502 Cannon House Office Building",
-"phone": "202-225-6435"
-}
-]
-},
-"senators": [
-{
-"id": {
-"bioguide": "F000463",
-"thomas": "02179",
-"lis": "S357",
-"govtrack": 412556,
-"cspan": 1034067,
-"wikipedia": "Deb Fischer",
-"votesmart": 41963,
-"opensecrets": "N00033443",
-"fec": [
-"S2NE00094"
-],
-"ballotpedia": "Deb Fischer",
-"maplight": 1780,
-"icpsr": 41302,
-"house_history": 15032390640,
-"wikidata": "Q2580649",
-"google_entity_id": "kg:/m/0c4cp0"
-},
-"name": {
-"first": "Deb",
-"last": "Fischer",
-"official_full": "Deb Fischer"
-},
-"bio": {
-"gender": "F",
-"birthday": "1951-03-01"
-},
-"terms": [
-{
-"type": "sen",
-"start": "2013-01-03",
-"end": "2019-01-03",
-"state": "NE",
-"party": "Republican",
-"class": 1,
-"url": "https://www.fischer.senate.gov",
-"address": "454 Russell Senate Office Building Washington DC 20510",
-"office": "454 Russell Senate Office Building",
-"phone": "202-224-6551",
-"state_rank": "senior",
-"contact_form": "http://www.fischer.senate.gov/public/index.cfm/contact",
-"rss_url": "http://www.fischer.senate.gov/public/index.cfm/rss/feed",
-"fax": "202-228-1325"
-},
-{
-"type": "sen",
-"start": "2019-01-03",
-"end": "2025-01-03",
-"state": "NE",
-"class": 1,
-"party": "Republican",
-"state_rank": "senior",
-"url": "https://www.fischer.senate.gov",
-"rss_url": "http://www.fischer.senate.gov/public/index.cfm/rss/feed",
-"contact_form": "https://www.fischer.senate.gov/public/index.cfm/contact",
-"address": "454 Russell Senate Office Building Washington DC 20510",
-"office": "454 Russell Senate Office Building",
-"phone": "202-224-6551"
-}
-]
-},
-{
-"id": {
-"bioguide": "S001197",
-"thomas": "02289",
-"fec": [
-"S4NE00090"
-],
-"govtrack": 412671,
-"opensecrets": "N00035544",
-"lis": "S382",
-"maplight": 2127,
-"wikidata": "Q16192221",
-"wikipedia": "Ben Sasse",
-"google_entity_id": "kg:/m/0j5wk_6",
-"votesmart": 150182,
-"cspan": 77429,
-"icpsr": 41503,
-"ballotpedia": "Ben Sasse"
-},
-"name": {
-"first": "Benjamin",
-"middle": "Eric",
-"nickname": "Ben",
-"last": "Sasse",
-"official_full": "Ben Sasse"
-},
-"bio": {
-"gender": "M",
-"birthday": "1972-02-22"
-},
-"terms": [
-{
-"type": "sen",
-"start": "2015-01-06",
-"end": "2021-01-03",
-"state": "NE",
-"class": 2,
-"state_rank": "junior",
-"party": "Republican",
-"url": "https://www.sasse.senate.gov/public",
-"address": "107 Russell Senate Office Building Washington DC 20510",
-"office": "107 Russell Senate Office Building",
-"phone": "202-224-4224",
-"contact_form": "http://www.sasse.senate.gov/public/index.cfm/email-ben"
-},
-{
-"type": "sen",
-"start": "2021-01-03",
-"end": "2027-01-03",
-"state": "NE",
-"class": 2,
-"state_rank": "junior",
-"party": "Republican",
-"url": "https://www.sasse.senate.gov/public",
-"contact_form": "https://www.sasse.senate.gov/public/index.cfm/email-ben",
-"address": "139 Russell Senate Office Building Washington DC 20510",
-"office": "139 Russell Senate Office Building",
-"phone": "202-224-4224"
-}
-]
-}
-],
-"2": {
-"id": {
-"bioguide": "B001298",
-"govtrack": 412713,
-"wikipedia": "Don Bacon (politician)",
-"wikidata": "Q19757583",
-"votesmart": 166299,
-"fec": [
-"H6NE02125"
-],
-"opensecrets": "N00037049",
-"maplight": 2225,
-"google_entity_id": "kg:/m/01311t71",
-"cspan": 103442,
-"icpsr": 21701,
-"ballotpedia": "Don Bacon"
-},
-"name": {
-"first": "Don",
-"last": "Bacon",
-"official_full": "Don Bacon"
-},
-"bio": {
-"gender": "M",
-"birthday": "1963-08-16"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NE",
-"district": 2,
-"party": "Republican",
-"phone": "202-225-4155",
-"address": "1516 Longworth House Office Building; Washington DC 20515-2702",
-"office": "1516 Longworth House Office Building",
-"url": "https://bacon.house.gov"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NE",
-"district": 2,
-"party": "Republican",
-"phone": "202-225-4155",
-"address": "1024 Longworth House Office Building Washington DC 20515-2702",
-"office": "1024 Longworth House Office Building",
-"url": "https://bacon.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NE",
-"district": 2,
-"party": "Republican",
-"url": "https://bacon.house.gov",
-"address": "1024 Longworth House Office Building Washington DC 20515-2702",
-"office": "1024 Longworth House Office Building",
-"phone": "202-225-4155"
-}
-]
-}
-},
 "AZ": {
 "4": {
 "id": {
@@ -50304,6 +49736,332 @@
 ]
 }
 ]
+},
+"NE": {
+"3": {
+"id": {
+"bioguide": "S001172",
+"thomas": "01860",
+"govtrack": 412217,
+"opensecrets": "N00027623",
+"votesmart": 21284,
+"fec": [
+"H6NE03115"
+],
+"cspan": 1022845,
+"wikipedia": "Adrian Smith (politician)",
+"ballotpedia": "Adrian Smith",
+"maplight": 702,
+"icpsr": 20729,
+"house_history": 22600,
+"wikidata": "Q373443",
+"google_entity_id": "kg:/m/0c505n"
+},
+"name": {
+"first": "Adrian",
+"last": "Smith",
+"official_full": "Adrian Smith"
+},
+"bio": {
+"birthday": "1970-12-19",
+"gender": "M"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2007-01-04",
+"end": "2009-01-03",
+"state": "NE",
+"district": 3,
+"party": "Republican",
+"url": "http://adriansmith.house.gov"
+},
+{
+"type": "rep",
+"start": "2009-01-06",
+"end": "2011-01-03",
+"state": "NE",
+"district": 3,
+"party": "Republican",
+"url": "http://adriansmith.house.gov"
+},
+{
+"type": "rep",
+"start": "2011-01-05",
+"end": "2013-01-03",
+"state": "NE",
+"district": 3,
+"party": "Republican",
+"url": "http://adriansmith.house.gov",
+"address": "503 Cannon HOB; Washington DC 20515-2703",
+"phone": "202-225-6435",
+"fax": "202-225-0207",
+"contact_form": "http://www.house.gov/formadriansmith/issues_subscribe.htm",
+"office": "503 Cannon House Office Building"
+},
+{
+"type": "rep",
+"start": "2013-01-03",
+"end": "2015-01-03",
+"state": "NE",
+"party": "Republican",
+"district": 3,
+"url": "http://adriansmith.house.gov",
+"address": "2241 Rayburn HOB; Washington DC 20515-2703",
+"phone": "202-225-6435",
+"fax": "202-225-0207",
+"contact_form": "https://adriansmith.house.gov/contact-me/email-me",
+"office": "2241 Rayburn House Office Building",
+"rss_url": "http://adriansmith.house.gov/rss.xml"
+},
+{
+"type": "rep",
+"start": "2015-01-06",
+"end": "2017-01-03",
+"state": "NE",
+"party": "Republican",
+"district": 3,
+"url": "http://adriansmith.house.gov",
+"address": "2241 Rayburn HOB; Washington DC 20515-2703",
+"phone": "202-225-6435",
+"fax": "202-225-0207",
+"contact_form": "https://adriansmith.house.gov/contact-me/email-me",
+"office": "2241 Rayburn House Office Building",
+"rss_url": "http://adriansmith.house.gov/rss.xml"
+},
+{
+"type": "rep",
+"start": "2017-01-03",
+"end": "2019-01-03",
+"state": "NE",
+"district": 3,
+"party": "Republican",
+"phone": "202-225-6435",
+"url": "https://adriansmith.house.gov",
+"rss_url": "http://adriansmith.house.gov/rss.xml",
+"address": "320 Cannon House Office Building; Washington DC 20515-2703",
+"office": "320 Cannon House Office Building",
+"fax": "202-225-0207"
+},
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NE",
+"district": 3,
+"party": "Republican",
+"phone": "202-225-6435",
+"address": "502 Cannon House Office Building Washington DC 20515-2703",
+"office": "502 Cannon House Office Building",
+"url": "https://adriansmith.house.gov",
+"rss_url": "http://adriansmith.house.gov/rss.xml"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NE",
+"district": 3,
+"party": "Republican",
+"url": "https://adriansmith.house.gov",
+"rss_url": "http://adriansmith.house.gov/rss.xml",
+"address": "502 Cannon House Office Building Washington DC 20515-2703",
+"office": "502 Cannon House Office Building",
+"phone": "202-225-6435"
+}
+]
+},
+"senators": [
+{
+"id": {
+"bioguide": "F000463",
+"thomas": "02179",
+"lis": "S357",
+"govtrack": 412556,
+"cspan": 1034067,
+"wikipedia": "Deb Fischer",
+"votesmart": 41963,
+"opensecrets": "N00033443",
+"fec": [
+"S2NE00094"
+],
+"ballotpedia": "Deb Fischer",
+"maplight": 1780,
+"icpsr": 41302,
+"house_history": 15032390640,
+"wikidata": "Q2580649",
+"google_entity_id": "kg:/m/0c4cp0"
+},
+"name": {
+"first": "Deb",
+"last": "Fischer",
+"official_full": "Deb Fischer"
+},
+"bio": {
+"gender": "F",
+"birthday": "1951-03-01"
+},
+"terms": [
+{
+"type": "sen",
+"start": "2013-01-03",
+"end": "2019-01-03",
+"state": "NE",
+"party": "Republican",
+"class": 1,
+"url": "https://www.fischer.senate.gov",
+"address": "454 Russell Senate Office Building Washington DC 20510",
+"office": "454 Russell Senate Office Building",
+"phone": "202-224-6551",
+"state_rank": "senior",
+"contact_form": "http://www.fischer.senate.gov/public/index.cfm/contact",
+"rss_url": "http://www.fischer.senate.gov/public/index.cfm/rss/feed",
+"fax": "202-228-1325"
+},
+{
+"type": "sen",
+"start": "2019-01-03",
+"end": "2025-01-03",
+"state": "NE",
+"class": 1,
+"party": "Republican",
+"state_rank": "senior",
+"url": "https://www.fischer.senate.gov",
+"rss_url": "http://www.fischer.senate.gov/public/index.cfm/rss/feed",
+"contact_form": "https://www.fischer.senate.gov/public/index.cfm/contact",
+"address": "454 Russell Senate Office Building Washington DC 20510",
+"office": "454 Russell Senate Office Building",
+"phone": "202-224-6551"
+}
+]
+},
+{
+"id": {
+"bioguide": "S001197",
+"thomas": "02289",
+"fec": [
+"S4NE00090"
+],
+"govtrack": 412671,
+"opensecrets": "N00035544",
+"lis": "S382",
+"maplight": 2127,
+"wikidata": "Q16192221",
+"wikipedia": "Ben Sasse",
+"google_entity_id": "kg:/m/0j5wk_6",
+"votesmart": 150182,
+"cspan": 77429,
+"icpsr": 41503,
+"ballotpedia": "Ben Sasse"
+},
+"name": {
+"first": "Benjamin",
+"middle": "Eric",
+"nickname": "Ben",
+"last": "Sasse",
+"official_full": "Ben Sasse"
+},
+"bio": {
+"gender": "M",
+"birthday": "1972-02-22"
+},
+"terms": [
+{
+"type": "sen",
+"start": "2015-01-06",
+"end": "2021-01-03",
+"state": "NE",
+"class": 2,
+"state_rank": "junior",
+"party": "Republican",
+"url": "https://www.sasse.senate.gov/public",
+"address": "107 Russell Senate Office Building Washington DC 20510",
+"office": "107 Russell Senate Office Building",
+"phone": "202-224-4224",
+"contact_form": "http://www.sasse.senate.gov/public/index.cfm/email-ben"
+},
+{
+"type": "sen",
+"start": "2021-01-03",
+"end": "2027-01-03",
+"state": "NE",
+"class": 2,
+"state_rank": "junior",
+"party": "Republican",
+"url": "https://www.sasse.senate.gov/public",
+"contact_form": "https://www.sasse.senate.gov/public/index.cfm/email-ben",
+"address": "139 Russell Senate Office Building Washington DC 20510",
+"office": "139 Russell Senate Office Building",
+"phone": "202-224-4224"
+}
+]
+}
+],
+"2": {
+"id": {
+"bioguide": "B001298",
+"govtrack": 412713,
+"wikipedia": "Don Bacon (politician)",
+"wikidata": "Q19757583",
+"votesmart": 166299,
+"fec": [
+"H6NE02125"
+],
+"opensecrets": "N00037049",
+"maplight": 2225,
+"google_entity_id": "kg:/m/01311t71",
+"cspan": 103442,
+"icpsr": 21701,
+"ballotpedia": "Don Bacon"
+},
+"name": {
+"first": "Don",
+"last": "Bacon",
+"official_full": "Don Bacon"
+},
+"bio": {
+"gender": "M",
+"birthday": "1963-08-16"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2017-01-03",
+"end": "2019-01-03",
+"state": "NE",
+"district": 2,
+"party": "Republican",
+"phone": "202-225-4155",
+"address": "1516 Longworth House Office Building; Washington DC 20515-2702",
+"office": "1516 Longworth House Office Building",
+"url": "https://bacon.house.gov"
+},
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NE",
+"district": 2,
+"party": "Republican",
+"phone": "202-225-4155",
+"address": "1024 Longworth House Office Building Washington DC 20515-2702",
+"office": "1024 Longworth House Office Building",
+"url": "https://bacon.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NE",
+"district": 2,
+"party": "Republican",
+"url": "https://bacon.house.gov",
+"address": "1024 Longworth House Office Building Washington DC 20515-2702",
+"office": "1024 Longworth House Office Building",
+"phone": "202-225-4155"
+}
+]
+}
 },
 "SD": {
 "senators": [
