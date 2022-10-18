@@ -1967,6 +1967,7 @@
 "H2OH11169"
 ],
 "govtrack": 456863,
+"opensecrets": "N00047875",
 "wikipedia": "Shontel Brown",
 "wikidata": "Q107863952"
 },
@@ -2002,6 +2003,7 @@
 "H2OH15228"
 ],
 "govtrack": 456864,
+"opensecrets": "N00048568",
 "wikipedia": "Mike Carey (politician)",
 "wikidata": "Q108010312"
 },
@@ -12397,6 +12399,7 @@
 "H2CA22231"
 ],
 "govtrack": 456866,
+"opensecrets": "N00050064",
 "wikipedia": "Connie Conway",
 "wikidata": "Q5161840",
 "ballotpedia": "Connie Conway"
@@ -13081,6 +13084,7 @@
 "H2MN01223"
 ],
 "govtrack": 456869,
+"opensecrets": "N00050649",
 "wikipedia": "Brad Finstad",
 "wikidata": "Q111159803",
 "ballotpedia": "Brad Finstad"
@@ -21895,6 +21899,7 @@
 "H2TX34113"
 ],
 "govtrack": 456867,
+"opensecrets": "N00048049",
 "wikipedia": "Mayra Flores",
 "wikidata": "Q112577890"
 },
@@ -32036,6 +32041,7 @@
 "H8NY19223"
 ],
 "govtrack": 456871,
+"opensecrets": "N00041165",
 "wikipedia": "Pat Ryan (politician)",
 "wikidata": "Q113587887",
 "ballotpedia": "Pat Ryan (New York)"
@@ -32070,6 +32076,7 @@
 "H2NY23137"
 ],
 "govtrack": 456872,
+"opensecrets": "N00048747",
 "wikipedia": "Joe Sempolinski",
 "wikidata": "Q113588013",
 "ballotpedia": "Joe Sempolinski"
@@ -35574,132 +35581,6 @@
 }
 ]
 },
-"22": {
-"id": {
-"bioguide": "D000610",
-"thomas": "01976",
-"govtrack": 412385,
-"opensecrets": "N00031317",
-"votesmart": 67151,
-"fec": [
-"H0FL19080"
-],
-"cspan": 9267613,
-"wikipedia": "Ted Deutch",
-"house_history": 12594,
-"ballotpedia": "Theodore E. Deutch",
-"maplight": 1365,
-"icpsr": 20959,
-"wikidata": "Q245724",
-"google_entity_id": "kg:/m/03cg3qs"
-},
-"name": {
-"first": "Theodore",
-"middle": "E.",
-"last": "Deutch",
-"official_full": "Theodore E. Deutch",
-"nickname": "Ted"
-},
-"bio": {
-"birthday": "1966-05-07",
-"gender": "M"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2010-04-15",
-"end": "2011-01-03",
-"state": "FL",
-"district": 19,
-"party": "Democrat",
-"url": "http://deutch.house.gov/"
-},
-{
-"type": "rep",
-"start": "2011-01-05",
-"end": "2013-01-03",
-"state": "FL",
-"district": 19,
-"party": "Democrat",
-"url": "http://deutch.house.gov/",
-"address": "1024 Longworth HOB; Washington DC 20515-0919",
-"phone": "202-225-3001",
-"fax": "202-225-5974",
-"contact_form": "https://teddeutch.house.gov/Forms/WriteYourRep/default.aspx",
-"office": "1024 Longworth House Office Building"
-},
-{
-"type": "rep",
-"start": "2013-01-03",
-"end": "2015-01-03",
-"state": "FL",
-"party": "Democrat",
-"district": 21,
-"url": "http://teddeutch.house.gov",
-"address": "1024 Longworth HOB; Washington DC 20515-0921",
-"phone": "202-225-3001",
-"fax": "202-225-5974",
-"contact_form": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx",
-"office": "1024 Longworth House Office Building",
-"rss_url": "http://teddeutch.house.gov/news/rss.aspx"
-},
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "FL",
-"party": "Democrat",
-"district": 21,
-"url": "http://teddeutch.house.gov",
-"address": "2447 Rayburn HOB; Washington DC 20515-0921",
-"phone": "202-225-3001",
-"fax": "202-225-5974",
-"contact_form": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx",
-"office": "2447 Rayburn House Office Building",
-"rss_url": "http://teddeutch.house.gov/news/rss.aspx"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "FL",
-"district": 22,
-"party": "Democrat",
-"phone": "202-225-3001",
-"url": "https://teddeutch.house.gov",
-"rss_url": "http://teddeutch.house.gov/news/rss.aspx",
-"address": "2447 Rayburn House Office Building; Washington DC 20515-0922",
-"office": "2447 Rayburn House Office Building",
-"fax": "202-225-5974"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "FL",
-"district": 22,
-"party": "Democrat",
-"phone": "202-225-3001",
-"address": "2447 Rayburn House Office Building Washington DC 20515-0922",
-"office": "2447 Rayburn House Office Building",
-"url": "https://teddeutch.house.gov",
-"rss_url": "http://teddeutch.house.gov/news/rss.aspx"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "FL",
-"district": 22,
-"party": "Democrat",
-"url": "https://teddeutch.house.gov",
-"rss_url": "http://teddeutch.house.gov/news/rss.aspx",
-"address": "2323 Rayburn House Office Building Washington DC 20515-0922",
-"office": "2323 Rayburn House Office Building",
-"phone": "202-225-3001"
-}
-]
-},
 "25": {
 "id": {
 "bioguide": "D000600",
@@ -37385,6 +37266,7 @@
 "H8FL20032"
 ],
 "govtrack": 456865,
+"opensecrets": "N00043504",
 "wikipedia": "Sheila Cherfilus-McCormick",
 "wikidata": "Q109560948"
 },
@@ -49229,6 +49111,7 @@
 "H2AK01158"
 ],
 "govtrack": 456870,
+"opensecrets": "N00050780",
 "wikipedia": "Mary Peltola",
 "wikidata": "Q13562231",
 "ballotpedia": "Mary Peltola"
@@ -49934,6 +49817,7 @@
 "H2NE01118"
 ],
 "govtrack": 456868,
+"opensecrets": "N00050145",
 "wikipedia": "Mike Flood (politician)",
 "wikidata": "Q6846855",
 "ballotpedia": "Mike Flood"
