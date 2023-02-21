@@ -2981,8 +2981,7 @@
 "ballotpedia": "Marie Gluesenkamp Perez"
 },
 "name": {
-"first": "Kristina",
-"middle": "Marie (goes by)",
+"first": "Marie",
 "last": "Gluesenkamp Perez",
 "official_full": "Marie Gluesenkamp Perez"
 },
@@ -17186,8 +17185,8 @@
 "state_rank": "senior",
 "url": "https://www.wicker.senate.gov",
 "contact_form": "https://www.wicker.senate.gov/public/index.cfm/contact",
-"address": "555 Dirksen Senate Office Building Washington DC 20510",
-"office": "555 Dirksen Senate Office Building",
+"address": "425 Russell Senate Office Building Washington DC 20510",
+"office": "425 Russell Senate Office Building",
 "phone": "202-224-6253"
 }
 ]
@@ -24604,8 +24603,8 @@
 "url": "https://www.paul.senate.gov",
 "rss_url": "http://paul.senate.gov/rss/?p=news",
 "contact_form": "https://www.paul.senate.gov/connect/email-rand",
-"address": "167 Russell Senate Office Building Washington DC 20510",
-"office": "167 Russell Senate Office Building",
+"address": "295 Russell Senate Office Building Washington DC 20510",
+"office": "295 Russell Senate Office Building",
 "phone": "202-224-4343"
 }
 ],
@@ -37348,8 +37347,8 @@
 "party": "Republican",
 "url": "https://www.hagerty.senate.gov",
 "contact_form": "https://www.hagerty.senate.gov/email-me/",
-"address": "248 Russell Senate Office Building Washington DC 20510",
-"office": "248 Russell Senate Office Building",
+"address": "251 Russell Senate Office Building Washington DC 20510",
+"office": "251 Russell Senate Office Building",
 "phone": "202-224-4944"
 }
 ]
@@ -40584,8 +40583,8 @@
 "party": "Republican",
 "url": "https://www.cassidy.senate.gov",
 "contact_form": "https://www.cassidy.senate.gov/contact",
-"address": "520 Hart Senate Office Building Washington DC 20510",
-"office": "520 Hart Senate Office Building",
+"address": "455 Dirksen Senate Office Building Washington DC 20510",
+"office": "455 Dirksen Senate Office Building",
 "phone": "202-224-5824"
 }
 ]
@@ -49377,6 +49376,47 @@
 "address": "454 Russell Senate Office Building Washington DC 20510",
 "office": "454 Russell Senate Office Building",
 "phone": "202-224-6551"
+}
+]
+},
+{
+"id": {
+"bioguide": "R000618",
+"lis": "S423",
+"fec": [
+"S6NE00129"
+],
+"govtrack": 456952,
+"wikidata": "Q6106781",
+"wikipedia": "Pete Ricketts",
+"votesmart": 57777,
+"cspan": 61233,
+"ballotpedia": "Pete Ricketts"
+},
+"name": {
+"first": "Pete",
+"last": "Ricketts",
+"official_full": "Pete Ricketts"
+},
+"bio": {
+"gender": "M",
+"birthday": "1964-08-19"
+},
+"terms": [
+{
+"type": "sen",
+"start": "2023-01-23",
+"end": "2024-11-05",
+"how": "appointment",
+"end-type": "special-election",
+"state": "NE",
+"class": 2,
+"state_rank": "junior",
+"party": "Republican",
+"url": "https://www.ricketts.senate.gov",
+"address": "40D Dirksen Senate Office Building Washington DC 20510",
+"office": "40d Dirksen Senate Office Building",
+"phone": "202-224-4224"
 }
 ]
 }
