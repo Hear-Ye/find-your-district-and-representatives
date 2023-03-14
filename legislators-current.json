@@ -1857,6 +1857,11 @@
 "chamber": "senate",
 "start": "2021-01-20",
 "end": "2023-01-03"
+},
+{
+"title": "President Pro Tempore of the Senate",
+"chamber": "senate",
+"start": "2021-01-03"
 }
 ],
 "terms": [
@@ -10645,6 +10650,11 @@
 "chamber": "house",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "House Democratic Caucus Chair",
+"chamber": "house",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -12294,6 +12304,11 @@
 "chamber": "senate",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Democratic Steering Committee Chair",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -12618,6 +12633,13 @@
 "gender": "M",
 "birthday": "1961-03-03"
 },
+"leadership_roles": [
+{
+"title": "House Majority Whip",
+"chamber": "house",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "rep",
@@ -13215,6 +13237,13 @@
 "birthday": "1969-04-27",
 "gender": "M"
 },
+"leadership_roles": [
+{
+"title": "Senate Democratic Policy & Communications Committee Vice Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "sen",
@@ -14653,6 +14682,13 @@
 "birthday": "1941-09-08",
 "gender": "M"
 },
+"leadership_roles": [
+{
+"title": "Senate Democratic Outreach Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "rep",
@@ -15010,6 +15046,11 @@
 "chamber": "senate",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Democratic Policy & Communications Committee Chair",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -16287,6 +16328,13 @@
 "gender": "M",
 "birthday": "1962-08-20"
 },
+"leadership_roles": [
+{
+"title": "Senate Republican Committee Chair",
+"chamber": "house",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "rep",
@@ -16861,6 +16909,11 @@
 "chamber": "senate",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Republican Conference Chair",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -21660,6 +21713,11 @@
 "chamber": "senate",
 "start": "2021-01-20",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Majority Whip",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -23489,8 +23547,8 @@
 "url": "https://www.lgraham.senate.gov/public",
 "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed",
 "contact_form": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
-"address": "290 Russell Senate Office Building Washington DC 20510",
-"office": "290 Russell Senate Office Building",
+"address": "211 Russell Senate Office Building Washington DC 20510",
+"office": "211 Russell Senate Office Building",
 "phone": "202-224-5972"
 }
 ]
@@ -23648,6 +23706,11 @@
 "chamber": "house",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "Assistant House Minority Leader",
+"chamber": "house",
+"start": "2021-01-03"
 }
 ],
 "terms": [
@@ -24446,6 +24509,11 @@
 "chamber": "senate",
 "start": "2021-01-20",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Majority Leader",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -26903,6 +26971,13 @@
 "gender": "M",
 "birthday": "1954-12-15"
 },
+"leadership_roles": [
+{
+"title": "Senate Democratic Conference Vice Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "sen",
@@ -28005,6 +28080,40 @@
 "phone": "202-225-4215"
 }
 ]
+},
+"4": {
+"id": {
+"bioguide": "M001227",
+"fec": [
+"H4VA04066"
+],
+"govtrack": 456953,
+"wikipedia": "Jennifer McClellan",
+"wikidata": "Q6178602",
+"ballotpedia": "Jennifer McClellan"
+},
+"name": {
+"first": "Jennifer",
+"last": "McClellan",
+"official_full": "Jennifer L. McClellan"
+},
+"bio": {
+"gender": "F",
+"birthday": "1972-12-28"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2023-03-07",
+"end": "2025-01-03",
+"state": "VA",
+"district": 4,
+"party": "Democrat",
+"address": "2417 Rayburn House Office Building Washington DC 20515-4604",
+"office": "2417 Rayburn House Office Building",
+"phone": "202-225-6365"
+}
+]
 }
 },
 "NY": {
@@ -28163,6 +28272,11 @@
 "chamber": "senate",
 "start": "2021-01-20",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Majority Leader",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -29496,6 +29610,11 @@
 "chamber": "house",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "House Minority Leader",
+"chamber": "house",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -29616,6 +29735,11 @@
 "chamber": "house",
 "start": "2021-05-14",
 "end": "2023-01-03"
+},
+{
+"title": "House Republican Conference Chair",
+"chamber": "house",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -30526,6 +30650,13 @@
 "birthday": "1947-08-24",
 "gender": "M"
 },
+"leadership_roles": [
+{
+"title": "Senate Democratic Policy & Communications Committee Vice Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "sen",
@@ -30604,6 +30735,13 @@
 "birthday": "1953-11-26",
 "gender": "F"
 },
+"leadership_roles": [
+{
+"title": "Senate Republican Conference Vice Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "rep",
@@ -31396,6 +31534,11 @@
 "chamber": "house",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "House Republican Policy Committee Chair",
+"chamber": "house",
+"start": "2021-01-03"
 }
 ],
 "terms": [
@@ -31714,10 +31857,15 @@
 },
 "leadership_roles": [
 {
-"title": "Senate Democratic Caucus Secretary",
+"title": "Senate Democratic Conference Secretary",
 "chamber": "senate",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Democratic Conference Secretary",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -39150,8 +39298,8 @@
 "url": "https://www.boozman.senate.gov/public",
 "rss_url": "http://www.boozman.senate.gov/public/index.cfm/rss/feed",
 "contact_form": "https://www.boozman.senate.gov/public/index.cfm/contact",
-"address": "141 Hart Senate Office Building Washington DC 20510",
-"office": "141 Hart Senate Office Building",
+"address": "555 Dirksen Senate Office Building Washington DC 20510",
+"office": "555 Dirksen Senate Office Building",
 "phone": "202-224-4843"
 }
 ]
@@ -40642,8 +40790,8 @@
 "party": "Republican",
 "url": "https://www.kennedy.senate.gov/public",
 "contact_form": "https://www.kennedy.senate.gov/public/email-me",
-"address": "416 Russell Senate Office Building Washington DC 20510",
-"office": "416 Russell Senate Office Building",
+"address": "437 Russell Senate Office Building Washington DC 20510",
+"office": "437 Russell Senate Office Building",
 "phone": "202-224-4623"
 }
 ]
@@ -40708,6 +40856,11 @@
 "chamber": "house",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "House Majority Leader",
+"chamber": "house",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -45172,6 +45325,11 @@
 "chamber": "senate",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Republican Policy Committee Chair",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -45199,8 +45357,8 @@
 "party": "Republican",
 "url": "https://www.ernst.senate.gov",
 "contact_form": "https://www.ernst.senate.gov/public/index.cfm/contact",
-"address": "730 Hart Senate Office Building Washington DC 20510",
-"office": "730 Hart Senate Office Building",
+"address": "260 Russell Senate Office Building Washington DC 20510",
+"office": "260 Russell Senate Office Building",
 "phone": "202-224-3254"
 }
 ]
@@ -45883,6 +46041,13 @@
 "birthday": "1972-10-20",
 "gender": "M"
 },
+"leadership_roles": [
+{
+"title": "Senate Democratic Conference Deputy Secretary",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "sen",
@@ -46229,8 +46394,8 @@
 "party": "Republican",
 "state_rank": "junior",
 "url": "https://www.cramer.senate.gov",
-"address": "330 Hart Senate Office Building Washington DC 20510",
-"office": "330 Hart Senate Office Building",
+"address": "313 Hart Senate Office Building Washington DC 20510",
+"office": "313 Hart Senate Office Building",
 "phone": "202-224-2043",
 "contact_form": "https://www.cramer.senate.gov/contact/contact-kevin"
 }
@@ -46888,6 +47053,13 @@
 "gender": "F",
 "birthday": "1949-06-22"
 },
+"leadership_roles": [
+{
+"title": "Senate Democratic Conference Vice Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "sen",
@@ -47369,6 +47541,11 @@
 "chamber": "house",
 "start": "2021-01-03",
 "end": "2023-01-03"
+},
+{
+"title": "House Minority Whip",
+"chamber": "house",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -49595,6 +49772,11 @@
 "chamber": "senate",
 "start": "2021-01-20",
 "end": "2023-01-03"
+},
+{
+"title": "Senate Minority Whip",
+"chamber": "senate",
+"start": "2023-01-03"
 }
 ],
 "terms": [
@@ -50085,6 +50267,13 @@
 "gender": "F",
 "birthday": "1964-03-29"
 },
+"leadership_roles": [
+{
+"title": "Senate Democratic Outreach Vice Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
 "terms": [
 {
 "type": "sen",
@@ -50110,8 +50299,8 @@
 "party": "Democrat",
 "url": "https://www.cortezmasto.senate.gov",
 "contact_form": "https://www.cortezmasto.senate.gov/contact",
-"address": "313 Hart Senate Office Building Washington DC 20510",
-"office": "313 Hart Senate Office Building",
+"address": "520 Hart Senate Office Building Washington DC 20510",
+"office": "520 Hart Senate Office Building",
 "phone": "202-224-3542"
 }
 ]
