@@ -12196,13 +12196,13 @@
 ],
 "govtrack": 456884,
 "wikidata": "Q20177418",
-"wikipedia": "Sydney Kamlager",
+"wikipedia": "Sydney Kamlager-Dove",
 "ballotpedia": "Sydney Kamlager-Dove"
 },
 "name": {
 "first": "Sydney",
 "middle": "Kai",
-"last": "Kamlager",
+"last": "Kamlager-Dove",
 "official_full": "Sydney Kamlager-Dove"
 },
 "bio": {
@@ -17687,8 +17687,7 @@
 "wikipedia": "Mike Ezell"
 },
 "name": {
-"first": "Walter",
-"middle": "Michael (goes by Mike)",
+"first": "Mike",
 "last": "Ezell",
 "official_full": "Mike Ezell"
 },
@@ -24511,7 +24510,7 @@
 "end": "2023-01-03"
 },
 {
-"title": "Senate Majority Leader",
+"title": "Senate Minority Leader",
 "chamber": "senate",
 "start": "2023-01-03"
 }
@@ -25417,8 +25416,7 @@
 "votesmart": 139826
 },
 "name": {
-"first": "John",
-"middle": "Morgan (goes by Morgan)",
+"first": "Morgan",
 "last": "McGarvey",
 "official_full": "Morgan McGarvey"
 },
@@ -38231,8 +38229,7 @@
 "wikipedia": "Andy Ogles"
 },
 "name": {
-"first": "William",
-"middle": "Andrew (goes by Andy)",
+"first": "Andrew",
 "last": "Ogles",
 "suffix": "IV",
 "official_full": "Andrew Ogles"
@@ -44101,8 +44098,7 @@
 "google_entity_id": "kg:/g/11h1r27wjx"
 },
 "name": {
-"first": "George",
-"middle": "Wiley (uses as 1st)",
+"first": "Wiley",
 "last": "Nickel",
 "suffix": "III",
 "official_full": "Wiley Nickel"
