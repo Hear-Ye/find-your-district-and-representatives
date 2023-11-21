@@ -10622,6 +10622,39 @@
 "phone": "202-225-2735"
 }
 ]
+},
+"1": {
+"id": {
+"bioguide": "A000380",
+"fec": [
+"H4RI01265"
+],
+"govtrack": 456955,
+"wikipedia": "Gabe Amo",
+"wikidata": "Q118901875",
+"ballotpedia": "Gabe Amo"
+},
+"name": {
+"first": "Gabe",
+"last": "Amo"
+},
+"bio": {
+"gender": "M",
+"birthday": "1987-12-11"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2023-11-07",
+"end": "2025-01-03",
+"state": "RI",
+"district": 1,
+"party": "Democrat",
+"address": "2233 Rayburn House Office Building Washington DC 20515-3901",
+"office": "2233 Rayburn House Office Building",
+"phone": "202-225-4911"
+}
+]
 }
 },
 "WY": {
@@ -29281,7 +29314,7 @@
 "first": "C.",
 "middle": "Scott",
 "last": "Franklin",
-"official_full": "C. Scott Franklin"
+"official_full": "Scott Franklin"
 },
 "bio": {
 "gender": "M",
