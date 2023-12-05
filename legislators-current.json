@@ -10636,7 +10636,8 @@
 },
 "name": {
 "first": "Gabe",
-"last": "Amo"
+"last": "Amo",
+"official_full": "Gabe Amo"
 },
 "bio": {
 "gender": "M",
@@ -24179,44 +24180,6 @@
 "address": "1530 Longworth House Office Building Washington DC 20515-3201",
 "office": "1530 Longworth House Office Building",
 "phone": "202-225-3826"
-}
-]
-},
-"3": {
-"id": {
-"bioguide": "S001222",
-"fec": [
-"H0NY03083"
-],
-"govtrack": 456921,
-"wikidata": "Q115170395",
-"wikipedia": "George Santos",
-"ballotpedia": "George Devolder-Santos",
-"votesmart": 191234,
-"google_entity_id": "kg:/g/11fsg7b03f"
-},
-"name": {
-"first": "George",
-"middle": "Anthony Devolder",
-"last": "Santos",
-"official_full": "George Santos"
-},
-"bio": {
-"gender": "M",
-"birthday": "1988-07-22"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NY",
-"district": 3,
-"party": "Republican",
-"url": "https://santos.house.gov/",
-"address": "1117 Longworth House Office Building Washington DC 20515-3203",
-"office": "1117 Longworth House Office Building",
-"phone": "202-225-3335"
 }
 ]
 },
@@ -48121,6 +48084,39 @@
 "address": "309 Cannon House Office Building Washington DC 20515-4404",
 "office": "309 Cannon House Office Building",
 "phone": "202-225-3011"
+}
+]
+},
+"2": {
+"id": {
+"bioguide": "M001228",
+"fec": [
+"H4UT02296"
+],
+"govtrack": 456956,
+"wikipedia": "Celeste Maloy",
+"wikidata": "Q119578731",
+"ballotpedia": "Celeste Maloy"
+},
+"name": {
+"first": "Celeste",
+"last": "Maloy"
+},
+"bio": {
+"gender": "F",
+"birthday": "1981-05-22"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2023-11-21",
+"end": "2025-01-03",
+"state": "UT",
+"district": 2,
+"party": "Republican",
+"address": "166 Cannon House Office Building Washington DC 20515-4402",
+"office": "166 Cannon House Office Building",
+"phone": "202-225-9730"
 }
 ]
 }
