@@ -6852,1284 +6852,6 @@
 ]
 }
 },
-"NJ": {
-"senators": [
-{
-"id": {
-"bioguide": "M000639",
-"thomas": "00791",
-"lis": "S306",
-"govtrack": 400272,
-"opensecrets": "N00000699",
-"votesmart": 26961,
-"fec": [
-"H2NJ13075",
-"S6NJ00289"
-],
-"cspan": 29608,
-"house_history": 18124,
-"wikipedia": "Bob Menendez",
-"ballotpedia": "Bob Menendez",
-"maplight": 368,
-"icpsr": 29373,
-"wikidata": "Q888132",
-"google_entity_id": "kg:/m/033d3p"
-},
-"name": {
-"first": "Robert",
-"last": "Menendez",
-"nickname": "Bob",
-"official_full": "Robert Menendez"
-},
-"other_names": [
-{
-"last": "Menendez"
-}
-],
-"bio": {
-"birthday": "1954-01-01",
-"gender": "M"
-},
-"terms": [
-{
-"type": "rep",
-"start": "1993-01-05",
-"end": "1995-01-03",
-"state": "NJ",
-"district": 13,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1995-01-04",
-"end": "1997-01-03",
-"state": "NJ",
-"district": 13,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1997-01-07",
-"end": "1999-01-03",
-"state": "NJ",
-"district": 13,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1999-01-06",
-"end": "2001-01-03",
-"state": "NJ",
-"district": 13,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "2001-01-03",
-"end": "2003-01-03",
-"state": "NJ",
-"district": 13,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "2003-01-07",
-"end": "2005-01-03",
-"state": "NJ",
-"district": 13,
-"party": "Democrat",
-"url": "http://menendez.house.gov"
-},
-{
-"type": "rep",
-"start": "2005-01-04",
-"end": "2006-01-16",
-"state": "NJ",
-"district": 13,
-"party": "Democrat",
-"url": "http://menendez.house.gov"
-},
-{
-"type": "sen",
-"start": "2006-01-18",
-"end": "2007-01-03",
-"state": "NJ",
-"class": 1,
-"party": "Democrat",
-"url": "http://menendez.senate.gov/",
-"how": "appointment"
-},
-{
-"type": "sen",
-"start": "2007-01-04",
-"end": "2013-01-03",
-"state": "NJ",
-"class": 1,
-"party": "Democrat",
-"url": "http://menendez.senate.gov/",
-"address": "528 HART SENATE OFFICE BUILDING WASHINGTON DC 20510",
-"phone": "202-224-4744",
-"fax": "202-228-2197",
-"contact_form": "http://menendez.senate.gov/contact/",
-"office": "528 Hart Senate Office Building"
-},
-{
-"type": "sen",
-"start": "2013-01-03",
-"end": "2019-01-03",
-"state": "NJ",
-"party": "Democrat",
-"class": 1,
-"url": "https://www.menendez.senate.gov",
-"address": "528 Hart Senate Office Building Washington DC 20510",
-"phone": "202-224-4744",
-"fax": "202-228-2197",
-"contact_form": "https://www.menendez.senate.gov/contact",
-"office": "528 Hart Senate Office Building",
-"state_rank": "senior",
-"rss_url": "http://www.menendez.senate.gov/rss/feeds/index.cfm?type=news"
-},
-{
-"type": "sen",
-"start": "2019-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"class": 1,
-"party": "Democrat",
-"state_rank": "senior",
-"url": "https://www.menendez.senate.gov",
-"rss_url": "http://www.menendez.senate.gov/rss/feeds/index.cfm?type=news",
-"contact_form": "https://www.menendez.senate.gov/contact",
-"address": "528 Hart Senate Office Building Washington DC 20510",
-"office": "528 Hart Senate Office Building",
-"phone": "202-224-4744"
-}
-]
-},
-{
-"id": {
-"bioguide": "B001288",
-"lis": "S370",
-"thomas": "02194",
-"govtrack": 412598,
-"opensecrets": "N00035267",
-"votesmart": 76151,
-"wikipedia": "Cory Booker",
-"ballotpedia": "Cory Booker",
-"fec": [
-"S4NJ00185"
-],
-"cspan": 84679,
-"maplight": 2051,
-"wikidata": "Q1135767",
-"google_entity_id": "kg:/m/06p430",
-"icpsr": 41308
-},
-"name": {
-"first": "Cory",
-"middle": "Anthony",
-"last": "Booker",
-"official_full": "Cory A. Booker"
-},
-"bio": {
-"birthday": "1969-04-27",
-"gender": "M"
-},
-"leadership_roles": [
-{
-"title": "Senate Democratic Policy & Communications Committee Vice Chair",
-"chamber": "senate",
-"start": "2023-01-03"
-}
-],
-"terms": [
-{
-"type": "sen",
-"start": "2013-10-31",
-"end": "2015-01-03",
-"state": "NJ",
-"class": 2,
-"party": "Democrat",
-"state_rank": "junior",
-"url": "http://www.booker.senate.gov",
-"phone": "202-224-3224",
-"address": "141 Hart Senate Office Building Washington DC 20510",
-"office": "141 Hart Senate Office Building",
-"contact_form": "http://www.booker.senate.gov/?p=contact"
-},
-{
-"type": "sen",
-"start": "2015-01-06",
-"end": "2021-01-03",
-"state": "NJ",
-"class": 2,
-"party": "Democrat",
-"state_rank": "junior",
-"url": "https://www.booker.senate.gov",
-"phone": "202-224-3224",
-"address": "717 Hart Senate Office Building Washington DC 20510",
-"office": "717 Hart Senate Office Building",
-"contact_form": "https://www.booker.senate.gov/?p=contact",
-"fax": "202-224-8378"
-},
-{
-"type": "sen",
-"start": "2021-01-03",
-"end": "2027-01-03",
-"state": "NJ",
-"class": 2,
-"state_rank": "junior",
-"party": "Democrat",
-"url": "https://www.booker.senate.gov",
-"contact_form": "https://www.booker.senate.gov/?p=contact",
-"address": "717 Hart Senate Office Building Washington DC 20510",
-"office": "717 Hart Senate Office Building",
-"phone": "202-224-3224"
-}
-]
-}
-],
-"6": {
-"id": {
-"bioguide": "P000034",
-"thomas": "00887",
-"govtrack": 400308,
-"opensecrets": "N00000781",
-"votesmart": 26951,
-"icpsr": 15454,
-"fec": [
-"H8NJ03073",
-"S6NJ00263"
-],
-"cspan": 6107,
-"wikipedia": "Frank Pallone",
-"house_history": 19321,
-"maplight": 402,
-"wikidata": "Q965289",
-"google_entity_id": "kg:/m/0g6t5w",
-"ballotpedia": "Frank Pallone"
-},
-"name": {
-"first": "Frank",
-"middle": "J.",
-"last": "Pallone",
-"suffix": "Jr.",
-"official_full": "Frank Pallone, Jr."
-},
-"bio": {
-"birthday": "1951-10-30",
-"gender": "M"
-},
-"terms": [
-{
-"type": "rep",
-"start": "1987-01-06",
-"end": "1989-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1989-01-03",
-"end": "1991-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1991-01-03",
-"end": "1993-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1993-01-05",
-"end": "1995-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1995-01-04",
-"end": "1997-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1997-01-07",
-"end": "1999-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "1999-01-06",
-"end": "2001-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "2001-01-03",
-"end": "2003-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat"
-},
-{
-"type": "rep",
-"start": "2003-01-07",
-"end": "2005-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"url": "http://www.house.gov/pallone"
-},
-{
-"type": "rep",
-"start": "2005-01-04",
-"end": "2007-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"url": "http://www.house.gov/pallone"
-},
-{
-"type": "rep",
-"start": "2007-01-04",
-"end": "2009-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"url": "http://www.house.gov/pallone"
-},
-{
-"type": "rep",
-"start": "2009-01-06",
-"end": "2011-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"url": "http://www.house.gov/pallone"
-},
-{
-"type": "rep",
-"start": "2011-01-05",
-"end": "2013-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"url": "http://www.house.gov/pallone",
-"address": "237 Cannon HOB; Washington DC 20515-3006",
-"phone": "202-225-4671",
-"fax": "202-225-9665",
-"contact_form": "http://www.house.gov/pallone/contact.shtml",
-"office": "237 Cannon House Office Building"
-},
-{
-"type": "rep",
-"start": "2013-01-03",
-"end": "2015-01-03",
-"state": "NJ",
-"party": "Democrat",
-"district": 6,
-"url": "http://pallone.house.gov",
-"address": "237 Cannon HOB; Washington DC 20515-3006",
-"phone": "202-225-4671",
-"fax": "202-225-9665",
-"contact_form": "https://pallone.house.gov/contact-me/email-me",
-"office": "237 Cannon House Office Building",
-"rss_url": "http://pallone.house.gov/rss.xml"
-},
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "NJ",
-"party": "Democrat",
-"district": 6,
-"url": "https://pallone.house.gov",
-"address": "237 Cannon HOB; Washington DC 20515-3006",
-"phone": "202-225-4671",
-"fax": "202-225-9665",
-"contact_form": "https://pallone.house.gov/contact-me/email-me",
-"office": "237 Cannon House Office Building",
-"rss_url": "http://pallone.house.gov/rss.xml"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"phone": "202-225-4671",
-"url": "https://pallone.house.gov",
-"rss_url": "http://pallone.house.gov/rss.xml",
-"address": "237 Cannon House Office Building; Washington DC 20515-3006",
-"office": "237 Cannon House Office Building",
-"fax": "202-225-9665"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"phone": "202-225-4671",
-"address": "2107 Rayburn House Office Building Washington DC 20515-3006",
-"office": "2107 Rayburn House Office Building",
-"url": "https://pallone.house.gov",
-"rss_url": "http://pallone.house.gov/rss.xml"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"url": "https://pallone.house.gov",
-"rss_url": "http://pallone.house.gov/rss.xml",
-"address": "2107 Rayburn House Office Building Washington DC 20515-3006",
-"office": "2107 Rayburn House Office Building",
-"phone": "202-225-4671"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 6,
-"party": "Democrat",
-"url": "https://pallone.house.gov",
-"rss_url": "http://pallone.house.gov/rss.xml",
-"address": "2107 Rayburn House Office Building Washington DC 20515-3006",
-"office": "2107 Rayburn House Office Building",
-"phone": "202-225-4671"
-}
-]
-},
-"4": {
-"id": {
-"bioguide": "S000522",
-"thomas": "01071",
-"govtrack": 400380,
-"opensecrets": "N00009816",
-"votesmart": 26952,
-"icpsr": 14863,
-"fec": [
-"H8NJ04014"
-],
-"cspan": 6411,
-"wikipedia": "Chris Smith (New Jersey politician)",
-"maplight": 469,
-"house_history": 21787,
-"wikidata": "Q981167",
-"google_entity_id": "kg:/m/033f4d",
-"ballotpedia": "Chris Smith (New Jersey)"
-},
-"name": {
-"first": "Christopher",
-"middle": "H.",
-"last": "Smith",
-"nickname": "Chris",
-"official_full": "Christopher H. Smith"
-},
-"bio": {
-"birthday": "1953-03-04",
-"gender": "M"
-},
-"terms": [
-{
-"type": "rep",
-"start": "1981-01-05",
-"end": "1983-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1983-01-03",
-"end": "1985-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1985-01-03",
-"end": "1987-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1987-01-06",
-"end": "1989-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1989-01-03",
-"end": "1991-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1991-01-03",
-"end": "1993-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1993-01-05",
-"end": "1995-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1995-01-04",
-"end": "1997-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1997-01-07",
-"end": "1999-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "1999-01-06",
-"end": "2001-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "2001-01-03",
-"end": "2003-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican"
-},
-{
-"type": "rep",
-"start": "2003-01-07",
-"end": "2005-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"url": "http://www.house.gov/chrissmith"
-},
-{
-"type": "rep",
-"start": "2005-01-04",
-"end": "2007-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"url": "http://www.house.gov/chrissmith"
-},
-{
-"type": "rep",
-"start": "2007-01-04",
-"end": "2009-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"url": "http://www.house.gov/chrissmith"
-},
-{
-"type": "rep",
-"start": "2009-01-06",
-"end": "2011-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"url": "http://www.house.gov/chrissmith"
-},
-{
-"type": "rep",
-"start": "2011-01-05",
-"end": "2013-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"url": "http://www.house.gov/chrissmith",
-"address": "2373 Rayburn HOB; Washington DC 20515-3004",
-"phone": "202-225-3765",
-"fax": "202-225-7768",
-"contact_form": "http://chrissmith.house.gov/zipauth.html",
-"office": "2373 Rayburn House Office Building"
-},
-{
-"type": "rep",
-"start": "2013-01-03",
-"end": "2015-01-03",
-"state": "NJ",
-"party": "Republican",
-"district": 4,
-"url": "http://chrissmith.house.gov",
-"address": "2373 Rayburn HOB; Washington DC 20515-3004",
-"phone": "202-225-3765",
-"fax": "202-225-7768",
-"contact_form": "https://chrissmith.house.gov/contact/write.htm",
-"office": "2373 Rayburn House Office Building",
-"rss_url": "http://chrissmith.house.gov/news/rss.aspx"
-},
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "NJ",
-"party": "Republican",
-"district": 4,
-"url": "http://chrissmith.house.gov",
-"address": "2373 Rayburn HOB; Washington DC 20515-3004",
-"phone": "202-225-3765",
-"fax": "202-225-7768",
-"contact_form": "https://chrissmith.house.gov/contact/write.htm",
-"office": "2373 Rayburn House Office Building",
-"rss_url": "http://chrissmith.house.gov/news/rss.aspx"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"phone": "202-225-3765",
-"url": "https://chrissmith.house.gov",
-"rss_url": "http://chrissmith.house.gov/news/rss.aspx",
-"address": "2373 Rayburn House Office Building; Washington DC 20515-3004",
-"office": "2373 Rayburn House Office Building",
-"fax": "202-225-7768"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"phone": "202-225-3765",
-"address": "2373 Rayburn House Office Building Washington DC 20515-3004",
-"office": "2373 Rayburn House Office Building",
-"url": "https://chrissmith.house.gov",
-"rss_url": "http://chrissmith.house.gov/news/rss.aspx"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"url": "https://chrissmith.house.gov",
-"rss_url": "http://chrissmith.house.gov/news/rss.aspx",
-"address": "2373 Rayburn House Office Building Washington DC 20515-3004",
-"office": "2373 Rayburn House Office Building",
-"phone": "202-225-3765"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 4,
-"party": "Republican",
-"url": "https://chrissmith.house.gov",
-"rss_url": "http://chrissmith.house.gov/news/rss.aspx",
-"address": "2373 Rayburn House Office Building Washington DC 20515-3004",
-"office": "2373 Rayburn House Office Building",
-"phone": "202-225-3765"
-}
-]
-},
-"1": {
-"id": {
-"bioguide": "N000188",
-"thomas": "02202",
-"fec": [
-"H4NJ01084"
-],
-"govtrack": 412606,
-"opensecrets": "N00036154",
-"cspan": 76311,
-"wikipedia": "Donald Norcross",
-"ballotpedia": "Donald Norcross",
-"house_history": 15032409258,
-"maplight": 2062,
-"wikidata": "Q5294942",
-"google_entity_id": "kg:/m/09g8b1_",
-"votesmart": 116277,
-"icpsr": 21536
-},
-"name": {
-"first": "Donald",
-"middle": "W.",
-"last": "Norcross",
-"official_full": "Donald Norcross"
-},
-"bio": {
-"gender": "M",
-"birthday": "1958-12-13"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2014-11-12",
-"end": "2015-01-03",
-"state": "NJ",
-"district": 1,
-"party": "Democrat",
-"url": "http://norcross.house.gov/",
-"contact_form": "http://norcross.house.gov/contact",
-"address": "2265 Rayburn HOB; Washington DC 20515-3001",
-"office": "2265 Rayburn House Office Building",
-"phone": "202-225-6501"
-},
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "NJ",
-"district": 1,
-"party": "Democrat",
-"url": "http://norcross.house.gov",
-"contact_form": "http://norcross.house.gov/contact",
-"address": "1531 Longworth HOB; Washington DC 20515-3001",
-"office": "1531 Longworth House Office Building",
-"phone": "202-225-6501",
-"fax": "202-225-6583"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NJ",
-"district": 1,
-"party": "Democrat",
-"phone": "202-225-6501",
-"url": "https://norcross.house.gov",
-"address": "1531 Longworth House Office Building; Washington DC 20515-3001",
-"office": "1531 Longworth House Office Building",
-"fax": "202-225-6583"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 1,
-"party": "Democrat",
-"phone": "202-225-6501",
-"address": "2437 Rayburn House Office Building Washington DC 20515-3001",
-"office": "2437 Rayburn House Office Building",
-"url": "https://norcross.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 1,
-"party": "Democrat",
-"url": "https://norcross.house.gov",
-"address": "2427 Rayburn House Office Building Washington DC 20515-3001",
-"office": "2427 Rayburn House Office Building",
-"phone": "202-225-6501"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 1,
-"party": "Democrat",
-"url": "https://norcross.house.gov",
-"address": "2427 Rayburn House Office Building Washington DC 20515-3001",
-"office": "2427 Rayburn House Office Building",
-"phone": "202-225-6501"
-}
-]
-},
-"12": {
-"id": {
-"bioguide": "W000822",
-"fec": [
-"H4NJ12149"
-],
-"govtrack": 412644,
-"opensecrets": "N00036158",
-"thomas": "02259",
-"house_history": 15032409972,
-"maplight": 2100,
-"wikidata": "Q4942457",
-"wikipedia": "Bonnie Watson Coleman",
-"google_entity_id": "kg:/m/08kj70",
-"votesmart": 24799,
-"cspan": 79091,
-"icpsr": 21538
-},
-"name": {
-"first": "Bonnie",
-"last": "Watson Coleman",
-"official_full": "Bonnie Watson Coleman"
-},
-"bio": {
-"gender": "F",
-"birthday": "1945-02-06"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2015-01-06",
-"end": "2017-01-03",
-"state": "NJ",
-"district": 12,
-"party": "Democrat",
-"address": "126 Cannon HOB; Washington DC 20515-3012",
-"office": "126 Cannon House Office Building",
-"phone": "202-225-5801",
-"url": "https://watsoncoleman.house.gov",
-"fax": "202-225-6025"
-},
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NJ",
-"district": 12,
-"party": "Democrat",
-"phone": "202-225-5801",
-"url": "https://watsoncoleman.house.gov",
-"address": "1535 Longworth House Office Building; Washington DC 20515-3012",
-"office": "1535 Longworth House Office Building",
-"fax": "202-225-6025"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 12,
-"party": "Democrat",
-"phone": "202-225-5801",
-"address": "2442 Rayburn House Office Building Washington DC 20515-3012",
-"office": "2442 Rayburn House Office Building",
-"url": "https://watsoncoleman.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 12,
-"party": "Democrat",
-"url": "https://watsoncoleman.house.gov",
-"address": "168 Cannon House Office Building Washington DC 20515-3012",
-"office": "168 Cannon House Office Building",
-"phone": "202-225-5801"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 12,
-"party": "Democrat",
-"url": "https://watsoncoleman.house.gov",
-"address": "168 Cannon House Office Building Washington DC 20515-3012",
-"office": "168 Cannon House Office Building",
-"phone": "202-225-5801"
-}
-]
-},
-"5": {
-"id": {
-"bioguide": "G000583",
-"govtrack": 412714,
-"wikipedia": "Josh Gottheimer",
-"wikidata": "Q6288908",
-"votesmart": 169202,
-"fec": [
-"H6NJ05171"
-],
-"opensecrets": "N00036944",
-"maplight": 2226,
-"google_entity_id": "kg:/g/120x5twv",
-"cspan": 9275683,
-"icpsr": 21723,
-"ballotpedia": "Josh Gottheimer"
-},
-"name": {
-"first": "Josh",
-"last": "Gottheimer",
-"official_full": "Josh Gottheimer"
-},
-"bio": {
-"gender": "M",
-"birthday": "1975-03-08"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2017-01-03",
-"end": "2019-01-03",
-"state": "NJ",
-"district": 5,
-"party": "Democrat",
-"phone": "202-225-4465",
-"address": "213 Cannon House Office Building; Washington DC 20515-3005",
-"office": "213 Cannon House Office Building",
-"url": "https://gottheimer.house.gov"
-},
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 5,
-"party": "Democrat",
-"phone": "202-225-4465",
-"address": "213 Cannon House Office Building Washington DC 20515-3005",
-"office": "213 Cannon House Office Building",
-"url": "https://gottheimer.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 5,
-"party": "Democrat",
-"url": "https://gottheimer.house.gov",
-"address": "203 Cannon House Office Building Washington DC 20515-3005",
-"office": "203 Cannon House Office Building",
-"phone": "202-225-4465"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 5,
-"party": "Democrat",
-"url": "https://gottheimer.house.gov",
-"address": "203 Cannon House Office Building Washington DC 20515-3005",
-"office": "203 Cannon House Office Building",
-"phone": "202-225-4465"
-}
-]
-},
-"2": {
-"id": {
-"bioguide": "V000133",
-"fec": [
-"H8NJ02166"
-],
-"govtrack": 412796,
-"wikipedia": "Jeff Van Drew",
-"wikidata": "Q6175202",
-"opensecrets": "N00042164",
-"google_entity_id": "kg:/m/08h3sl",
-"votesmart": 24685,
-"icpsr": 21980,
-"ballotpedia": "Jeff Van Drew"
-},
-"name": {
-"first": "Jefferson",
-"last": "Van Drew",
-"official_full": "Jefferson Van Drew"
-},
-"bio": {
-"gender": "M",
-"birthday": "1953-02-23"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 2,
-"party": "Republican",
-"party_affiliations": [
-{
-"start": "2019-01-03",
-"end": "2019-12-18",
-"party": "Democrat"
-},
-{
-"start": "2019-12-19",
-"end": "2021-01-03",
-"party": "Republican"
-}
-],
-"phone": "202-225-6572",
-"address": "331 Cannon House Office Building Washington DC 20515-3002",
-"office": "331 Cannon House Office Building",
-"url": "https://vandrew.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 2,
-"party": "Republican",
-"url": "https://vandrew.house.gov",
-"address": "2447 Rayburn House Office Building Washington DC 20515-3002",
-"office": "2447 Rayburn House Office Building",
-"phone": "202-225-6572"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 2,
-"party": "Republican",
-"url": "https://vandrew.house.gov",
-"address": "2447 Rayburn House Office Building Washington DC 20515-3002",
-"office": "2447 Rayburn House Office Building",
-"phone": "202-225-6572"
-}
-]
-},
-"3": {
-"id": {
-"bioguide": "K000394",
-"fec": [
-"H8NJ03206"
-],
-"govtrack": 412797,
-"wikipedia": "Andy Kim (politician)",
-"wikidata": "Q55639180",
-"opensecrets": "N00041370",
-"icpsr": 21937,
-"google_entity_id": "kg:/g/11f730yxds",
-"ballotpedia": "Andrew Kim (New Jersey)",
-"votesmart": 179640
-},
-"name": {
-"first": "Andy",
-"last": "Kim",
-"official_full": "Andy Kim"
-},
-"bio": {
-"gender": "M",
-"birthday": "1982-07-12"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat",
-"phone": "202-225-4765",
-"address": "1516 Longworth House Office Building Washington DC 20515-3003",
-"office": "1516 Longworth House Office Building",
-"url": "https://kim.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat",
-"url": "https://kim.house.gov",
-"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
-"office": "2444 Rayburn House Office Building",
-"phone": "202-225-4765"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat",
-"url": "https://kim.house.gov",
-"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
-"office": "2444 Rayburn House Office Building",
-"phone": "202-225-4765"
-}
-]
-},
-"11": {
-"id": {
-"bioguide": "S001207",
-"fec": [
-"H8NJ11142"
-],
-"govtrack": 412799,
-"wikipedia": "Mikie Sherrill",
-"wikidata": "Q47087146",
-"opensecrets": "N00041154",
-"votesmart": 179651,
-"ballotpedia": "Mikie Sherrill",
-"icpsr": 21964,
-"google_entity_id": "kg:/g/11f3r4x6x5"
-},
-"name": {
-"first": "Mikie",
-"last": "Sherrill",
-"official_full": "Mikie Sherrill"
-},
-"bio": {
-"gender": "F",
-"birthday": "1972-01-19"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 11,
-"party": "Democrat",
-"phone": "202-225-5034",
-"address": "1208 Longworth House Office Building Washington DC 20515-3011",
-"office": "1208 Longworth House Office Building",
-"url": "https://sherrill.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 11,
-"party": "Democrat",
-"url": "https://sherrill.house.gov",
-"address": "1414 Longworth House Office Building Washington DC 20515-3011",
-"office": "1414 Longworth House Office Building",
-"phone": "202-225-5034"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 11,
-"party": "Democrat",
-"url": "https://sherrill.house.gov",
-"address": "1427 Longworth House Office Building Washington DC 20515-3011",
-"office": "1427 Longworth House Office Building",
-"phone": "202-225-5034"
-}
-]
-},
-"7": {
-"id": {
-"bioguide": "K000398",
-"fec": [
-"H0NJ07261"
-],
-"govtrack": 456917,
-"opensecrets": "N00027502",
-"wikidata": "Q7791445",
-"wikipedia": "Thomas Kean Jr.",
-"ballotpedia": "Thomas Kean Jr.",
-"votesmart": 43250
-},
-"name": {
-"first": "Thomas",
-"middle": "Howard",
-"last": "Kean",
-"suffix": "Jr.",
-"official_full": "Thomas H. Kean, Jr."
-},
-"bio": {
-"gender": "M",
-"birthday": "1968-09-05"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 7,
-"party": "Republican",
-"url": "https://kean.house.gov",
-"address": "251 Cannon House Office Building Washington DC 20515-3007",
-"office": "251 Cannon House Office Building",
-"phone": "202-225-5361"
-}
-]
-},
-"8": {
-"id": {
-"bioguide": "M001226",
-"fec": [
-"H2NJ08232"
-],
-"govtrack": 456918,
-"opensecrets": "N00049686",
-"wikidata": "Q115137457",
-"wikipedia": "Rob Menendez",
-"votesmart": 205678
-},
-"name": {
-"first": "Robert",
-"middle": "Jacobsen",
-"last": "Menendez",
-"suffix": "Jr.",
-"official_full": "Robert Menendez"
-},
-"bio": {
-"gender": "M",
-"birthday": "1985-07-12"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 8,
-"party": "Democrat",
-"url": "https://menendez.house.gov",
-"address": "1007 Longworth House Office Building Washington DC 20515-3008",
-"office": "1007 Longworth House Office Building",
-"phone": "202-225-7919"
-}
-]
-}
-},
 "VT": {
 "senators": [
 {
@@ -26573,7 +25295,7 @@
 "state": "CO",
 "district": 4,
 "party": "Republican",
-"address": "2455 Rayburn House Office Building Washington DC 20515-3506",
+"address": "2455 Rayburn House Office Building Washington DC 20515-0604",
 "office": "2455 Rayburn House Office Building",
 "phone": "202-225-4676",
 "url": "https://lopez.house.gov"
@@ -48164,6 +46886,1168 @@
 ]
 }
 ]
+},
+"NJ": {
+"6": {
+"id": {
+"bioguide": "P000034",
+"thomas": "00887",
+"govtrack": 400308,
+"opensecrets": "N00000781",
+"votesmart": 26951,
+"icpsr": 15454,
+"fec": [
+"H8NJ03073",
+"S6NJ00263"
+],
+"cspan": 6107,
+"wikipedia": "Frank Pallone",
+"house_history": 19321,
+"maplight": 402,
+"wikidata": "Q965289",
+"google_entity_id": "kg:/m/0g6t5w",
+"ballotpedia": "Frank Pallone"
+},
+"name": {
+"first": "Frank",
+"middle": "J.",
+"last": "Pallone",
+"suffix": "Jr.",
+"official_full": "Frank Pallone, Jr."
+},
+"bio": {
+"birthday": "1951-10-30",
+"gender": "M"
+},
+"terms": [
+{
+"type": "rep",
+"start": "1987-01-06",
+"end": "1989-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "1989-01-03",
+"end": "1991-01-03",
+"state": "NJ",
+"district": 3,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "1991-01-03",
+"end": "1993-01-03",
+"state": "NJ",
+"district": 3,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "1993-01-05",
+"end": "1995-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "1995-01-04",
+"end": "1997-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "1997-01-07",
+"end": "1999-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "1999-01-06",
+"end": "2001-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "2001-01-03",
+"end": "2003-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat"
+},
+{
+"type": "rep",
+"start": "2003-01-07",
+"end": "2005-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"url": "http://www.house.gov/pallone"
+},
+{
+"type": "rep",
+"start": "2005-01-04",
+"end": "2007-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"url": "http://www.house.gov/pallone"
+},
+{
+"type": "rep",
+"start": "2007-01-04",
+"end": "2009-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"url": "http://www.house.gov/pallone"
+},
+{
+"type": "rep",
+"start": "2009-01-06",
+"end": "2011-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"url": "http://www.house.gov/pallone"
+},
+{
+"type": "rep",
+"start": "2011-01-05",
+"end": "2013-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"url": "http://www.house.gov/pallone",
+"address": "237 Cannon HOB; Washington DC 20515-3006",
+"phone": "202-225-4671",
+"fax": "202-225-9665",
+"contact_form": "http://www.house.gov/pallone/contact.shtml",
+"office": "237 Cannon House Office Building"
+},
+{
+"type": "rep",
+"start": "2013-01-03",
+"end": "2015-01-03",
+"state": "NJ",
+"party": "Democrat",
+"district": 6,
+"url": "http://pallone.house.gov",
+"address": "237 Cannon HOB; Washington DC 20515-3006",
+"phone": "202-225-4671",
+"fax": "202-225-9665",
+"contact_form": "https://pallone.house.gov/contact-me/email-me",
+"office": "237 Cannon House Office Building",
+"rss_url": "http://pallone.house.gov/rss.xml"
+},
+{
+"type": "rep",
+"start": "2015-01-06",
+"end": "2017-01-03",
+"state": "NJ",
+"party": "Democrat",
+"district": 6,
+"url": "https://pallone.house.gov",
+"address": "237 Cannon HOB; Washington DC 20515-3006",
+"phone": "202-225-4671",
+"fax": "202-225-9665",
+"contact_form": "https://pallone.house.gov/contact-me/email-me",
+"office": "237 Cannon House Office Building",
+"rss_url": "http://pallone.house.gov/rss.xml"
+},
+{
+"type": "rep",
+"start": "2017-01-03",
+"end": "2019-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"phone": "202-225-4671",
+"url": "https://pallone.house.gov",
+"rss_url": "http://pallone.house.gov/rss.xml",
+"address": "237 Cannon House Office Building; Washington DC 20515-3006",
+"office": "237 Cannon House Office Building",
+"fax": "202-225-9665"
+},
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"phone": "202-225-4671",
+"address": "2107 Rayburn House Office Building Washington DC 20515-3006",
+"office": "2107 Rayburn House Office Building",
+"url": "https://pallone.house.gov",
+"rss_url": "http://pallone.house.gov/rss.xml"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"url": "https://pallone.house.gov",
+"rss_url": "http://pallone.house.gov/rss.xml",
+"address": "2107 Rayburn House Office Building Washington DC 20515-3006",
+"office": "2107 Rayburn House Office Building",
+"phone": "202-225-4671"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 6,
+"party": "Democrat",
+"url": "https://pallone.house.gov",
+"rss_url": "http://pallone.house.gov/rss.xml",
+"address": "2107 Rayburn House Office Building Washington DC 20515-3006",
+"office": "2107 Rayburn House Office Building",
+"phone": "202-225-4671"
+}
+]
+},
+"4": {
+"id": {
+"bioguide": "S000522",
+"thomas": "01071",
+"govtrack": 400380,
+"opensecrets": "N00009816",
+"votesmart": 26952,
+"icpsr": 14863,
+"fec": [
+"H8NJ04014"
+],
+"cspan": 6411,
+"wikipedia": "Chris Smith (New Jersey politician)",
+"maplight": 469,
+"house_history": 21787,
+"wikidata": "Q981167",
+"google_entity_id": "kg:/m/033f4d",
+"ballotpedia": "Chris Smith (New Jersey)"
+},
+"name": {
+"first": "Christopher",
+"middle": "H.",
+"last": "Smith",
+"nickname": "Chris",
+"official_full": "Christopher H. Smith"
+},
+"bio": {
+"birthday": "1953-03-04",
+"gender": "M"
+},
+"terms": [
+{
+"type": "rep",
+"start": "1981-01-05",
+"end": "1983-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1983-01-03",
+"end": "1985-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1985-01-03",
+"end": "1987-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1987-01-06",
+"end": "1989-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1989-01-03",
+"end": "1991-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1991-01-03",
+"end": "1993-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1993-01-05",
+"end": "1995-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1995-01-04",
+"end": "1997-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1997-01-07",
+"end": "1999-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "1999-01-06",
+"end": "2001-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "2001-01-03",
+"end": "2003-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican"
+},
+{
+"type": "rep",
+"start": "2003-01-07",
+"end": "2005-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"url": "http://www.house.gov/chrissmith"
+},
+{
+"type": "rep",
+"start": "2005-01-04",
+"end": "2007-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"url": "http://www.house.gov/chrissmith"
+},
+{
+"type": "rep",
+"start": "2007-01-04",
+"end": "2009-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"url": "http://www.house.gov/chrissmith"
+},
+{
+"type": "rep",
+"start": "2009-01-06",
+"end": "2011-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"url": "http://www.house.gov/chrissmith"
+},
+{
+"type": "rep",
+"start": "2011-01-05",
+"end": "2013-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"url": "http://www.house.gov/chrissmith",
+"address": "2373 Rayburn HOB; Washington DC 20515-3004",
+"phone": "202-225-3765",
+"fax": "202-225-7768",
+"contact_form": "http://chrissmith.house.gov/zipauth.html",
+"office": "2373 Rayburn House Office Building"
+},
+{
+"type": "rep",
+"start": "2013-01-03",
+"end": "2015-01-03",
+"state": "NJ",
+"party": "Republican",
+"district": 4,
+"url": "http://chrissmith.house.gov",
+"address": "2373 Rayburn HOB; Washington DC 20515-3004",
+"phone": "202-225-3765",
+"fax": "202-225-7768",
+"contact_form": "https://chrissmith.house.gov/contact/write.htm",
+"office": "2373 Rayburn House Office Building",
+"rss_url": "http://chrissmith.house.gov/news/rss.aspx"
+},
+{
+"type": "rep",
+"start": "2015-01-06",
+"end": "2017-01-03",
+"state": "NJ",
+"party": "Republican",
+"district": 4,
+"url": "http://chrissmith.house.gov",
+"address": "2373 Rayburn HOB; Washington DC 20515-3004",
+"phone": "202-225-3765",
+"fax": "202-225-7768",
+"contact_form": "https://chrissmith.house.gov/contact/write.htm",
+"office": "2373 Rayburn House Office Building",
+"rss_url": "http://chrissmith.house.gov/news/rss.aspx"
+},
+{
+"type": "rep",
+"start": "2017-01-03",
+"end": "2019-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"phone": "202-225-3765",
+"url": "https://chrissmith.house.gov",
+"rss_url": "http://chrissmith.house.gov/news/rss.aspx",
+"address": "2373 Rayburn House Office Building; Washington DC 20515-3004",
+"office": "2373 Rayburn House Office Building",
+"fax": "202-225-7768"
+},
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"phone": "202-225-3765",
+"address": "2373 Rayburn House Office Building Washington DC 20515-3004",
+"office": "2373 Rayburn House Office Building",
+"url": "https://chrissmith.house.gov",
+"rss_url": "http://chrissmith.house.gov/news/rss.aspx"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"url": "https://chrissmith.house.gov",
+"rss_url": "http://chrissmith.house.gov/news/rss.aspx",
+"address": "2373 Rayburn House Office Building Washington DC 20515-3004",
+"office": "2373 Rayburn House Office Building",
+"phone": "202-225-3765"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 4,
+"party": "Republican",
+"url": "https://chrissmith.house.gov",
+"rss_url": "http://chrissmith.house.gov/news/rss.aspx",
+"address": "2373 Rayburn House Office Building Washington DC 20515-3004",
+"office": "2373 Rayburn House Office Building",
+"phone": "202-225-3765"
+}
+]
+},
+"senators": [
+{
+"id": {
+"bioguide": "B001288",
+"lis": "S370",
+"thomas": "02194",
+"govtrack": 412598,
+"opensecrets": "N00035267",
+"votesmart": 76151,
+"wikipedia": "Cory Booker",
+"ballotpedia": "Cory Booker",
+"fec": [
+"S4NJ00185"
+],
+"cspan": 84679,
+"maplight": 2051,
+"wikidata": "Q1135767",
+"google_entity_id": "kg:/m/06p430",
+"icpsr": 41308
+},
+"name": {
+"first": "Cory",
+"middle": "Anthony",
+"last": "Booker",
+"official_full": "Cory A. Booker"
+},
+"bio": {
+"birthday": "1969-04-27",
+"gender": "M"
+},
+"leadership_roles": [
+{
+"title": "Senate Democratic Policy & Communications Committee Vice Chair",
+"chamber": "senate",
+"start": "2023-01-03"
+}
+],
+"terms": [
+{
+"type": "sen",
+"start": "2013-10-31",
+"end": "2015-01-03",
+"state": "NJ",
+"class": 2,
+"party": "Democrat",
+"state_rank": "junior",
+"url": "http://www.booker.senate.gov",
+"phone": "202-224-3224",
+"address": "141 Hart Senate Office Building Washington DC 20510",
+"office": "141 Hart Senate Office Building",
+"contact_form": "http://www.booker.senate.gov/?p=contact"
+},
+{
+"type": "sen",
+"start": "2015-01-06",
+"end": "2021-01-03",
+"state": "NJ",
+"class": 2,
+"party": "Democrat",
+"state_rank": "junior",
+"url": "https://www.booker.senate.gov",
+"phone": "202-224-3224",
+"address": "717 Hart Senate Office Building Washington DC 20510",
+"office": "717 Hart Senate Office Building",
+"contact_form": "https://www.booker.senate.gov/?p=contact",
+"fax": "202-224-8378"
+},
+{
+"type": "sen",
+"start": "2021-01-03",
+"end": "2027-01-03",
+"state": "NJ",
+"class": 2,
+"state_rank": "senior",
+"party": "Democrat",
+"url": "https://www.booker.senate.gov",
+"contact_form": "https://www.booker.senate.gov/?p=contact",
+"address": "717 Hart Senate Office Building Washington DC 20510",
+"office": "717 Hart Senate Office Building",
+"phone": "202-224-3224"
+}
+]
+},
+{
+"id": {
+"bioguide": "H001097",
+"lis": "S425",
+"govtrack": 456961,
+"wikipedia": "George Helmy",
+"wikidata": "Q129127964",
+"ballotpedia": "George Helmy"
+},
+"name": {
+"first": "George",
+"middle": "S.",
+"last": "Helmy",
+"official_full": "George S. Helmy"
+},
+"bio": {
+"gender": "M",
+"birthday": "1979-10-27"
+},
+"terms": [
+{
+"type": "sen",
+"start": "2024-09-09",
+"end": "2025-01-03",
+"how": "appointment",
+"state": "NJ",
+"class": 1,
+"party": "Democrat",
+"state_rank": "junior",
+"url": "https://www.helmy.senate.gov",
+"address": "528 Hart Senate Office Building Washington DC 20510",
+"office": "528 Hart Senate Office Building",
+"phone": "202-224-4744"
+}
+]
+}
+],
+"1": {
+"id": {
+"bioguide": "N000188",
+"thomas": "02202",
+"fec": [
+"H4NJ01084"
+],
+"govtrack": 412606,
+"opensecrets": "N00036154",
+"cspan": 76311,
+"wikipedia": "Donald Norcross",
+"ballotpedia": "Donald Norcross",
+"house_history": 15032409258,
+"maplight": 2062,
+"wikidata": "Q5294942",
+"google_entity_id": "kg:/m/09g8b1_",
+"votesmart": 116277,
+"icpsr": 21536
+},
+"name": {
+"first": "Donald",
+"middle": "W.",
+"last": "Norcross",
+"official_full": "Donald Norcross"
+},
+"bio": {
+"gender": "M",
+"birthday": "1958-12-13"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2014-11-12",
+"end": "2015-01-03",
+"state": "NJ",
+"district": 1,
+"party": "Democrat",
+"url": "http://norcross.house.gov/",
+"contact_form": "http://norcross.house.gov/contact",
+"address": "2265 Rayburn HOB; Washington DC 20515-3001",
+"office": "2265 Rayburn House Office Building",
+"phone": "202-225-6501"
+},
+{
+"type": "rep",
+"start": "2015-01-06",
+"end": "2017-01-03",
+"state": "NJ",
+"district": 1,
+"party": "Democrat",
+"url": "http://norcross.house.gov",
+"contact_form": "http://norcross.house.gov/contact",
+"address": "1531 Longworth HOB; Washington DC 20515-3001",
+"office": "1531 Longworth House Office Building",
+"phone": "202-225-6501",
+"fax": "202-225-6583"
+},
+{
+"type": "rep",
+"start": "2017-01-03",
+"end": "2019-01-03",
+"state": "NJ",
+"district": 1,
+"party": "Democrat",
+"phone": "202-225-6501",
+"url": "https://norcross.house.gov",
+"address": "1531 Longworth House Office Building; Washington DC 20515-3001",
+"office": "1531 Longworth House Office Building",
+"fax": "202-225-6583"
+},
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 1,
+"party": "Democrat",
+"phone": "202-225-6501",
+"address": "2437 Rayburn House Office Building Washington DC 20515-3001",
+"office": "2437 Rayburn House Office Building",
+"url": "https://norcross.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 1,
+"party": "Democrat",
+"url": "https://norcross.house.gov",
+"address": "2427 Rayburn House Office Building Washington DC 20515-3001",
+"office": "2427 Rayburn House Office Building",
+"phone": "202-225-6501"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 1,
+"party": "Democrat",
+"url": "https://norcross.house.gov",
+"address": "2427 Rayburn House Office Building Washington DC 20515-3001",
+"office": "2427 Rayburn House Office Building",
+"phone": "202-225-6501"
+}
+]
+},
+"12": {
+"id": {
+"bioguide": "W000822",
+"fec": [
+"H4NJ12149"
+],
+"govtrack": 412644,
+"opensecrets": "N00036158",
+"thomas": "02259",
+"house_history": 15032409972,
+"maplight": 2100,
+"wikidata": "Q4942457",
+"wikipedia": "Bonnie Watson Coleman",
+"google_entity_id": "kg:/m/08kj70",
+"votesmart": 24799,
+"cspan": 79091,
+"icpsr": 21538
+},
+"name": {
+"first": "Bonnie",
+"last": "Watson Coleman",
+"official_full": "Bonnie Watson Coleman"
+},
+"bio": {
+"gender": "F",
+"birthday": "1945-02-06"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2015-01-06",
+"end": "2017-01-03",
+"state": "NJ",
+"district": 12,
+"party": "Democrat",
+"address": "126 Cannon HOB; Washington DC 20515-3012",
+"office": "126 Cannon House Office Building",
+"phone": "202-225-5801",
+"url": "https://watsoncoleman.house.gov",
+"fax": "202-225-6025"
+},
+{
+"type": "rep",
+"start": "2017-01-03",
+"end": "2019-01-03",
+"state": "NJ",
+"district": 12,
+"party": "Democrat",
+"phone": "202-225-5801",
+"url": "https://watsoncoleman.house.gov",
+"address": "1535 Longworth House Office Building; Washington DC 20515-3012",
+"office": "1535 Longworth House Office Building",
+"fax": "202-225-6025"
+},
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 12,
+"party": "Democrat",
+"phone": "202-225-5801",
+"address": "2442 Rayburn House Office Building Washington DC 20515-3012",
+"office": "2442 Rayburn House Office Building",
+"url": "https://watsoncoleman.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 12,
+"party": "Democrat",
+"url": "https://watsoncoleman.house.gov",
+"address": "168 Cannon House Office Building Washington DC 20515-3012",
+"office": "168 Cannon House Office Building",
+"phone": "202-225-5801"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 12,
+"party": "Democrat",
+"url": "https://watsoncoleman.house.gov",
+"address": "168 Cannon House Office Building Washington DC 20515-3012",
+"office": "168 Cannon House Office Building",
+"phone": "202-225-5801"
+}
+]
+},
+"5": {
+"id": {
+"bioguide": "G000583",
+"govtrack": 412714,
+"wikipedia": "Josh Gottheimer",
+"wikidata": "Q6288908",
+"votesmart": 169202,
+"fec": [
+"H6NJ05171"
+],
+"opensecrets": "N00036944",
+"maplight": 2226,
+"google_entity_id": "kg:/g/120x5twv",
+"cspan": 9275683,
+"icpsr": 21723,
+"ballotpedia": "Josh Gottheimer"
+},
+"name": {
+"first": "Josh",
+"last": "Gottheimer",
+"official_full": "Josh Gottheimer"
+},
+"bio": {
+"gender": "M",
+"birthday": "1975-03-08"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2017-01-03",
+"end": "2019-01-03",
+"state": "NJ",
+"district": 5,
+"party": "Democrat",
+"phone": "202-225-4465",
+"address": "213 Cannon House Office Building; Washington DC 20515-3005",
+"office": "213 Cannon House Office Building",
+"url": "https://gottheimer.house.gov"
+},
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 5,
+"party": "Democrat",
+"phone": "202-225-4465",
+"address": "213 Cannon House Office Building Washington DC 20515-3005",
+"office": "213 Cannon House Office Building",
+"url": "https://gottheimer.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 5,
+"party": "Democrat",
+"url": "https://gottheimer.house.gov",
+"address": "203 Cannon House Office Building Washington DC 20515-3005",
+"office": "203 Cannon House Office Building",
+"phone": "202-225-4465"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 5,
+"party": "Democrat",
+"url": "https://gottheimer.house.gov",
+"address": "203 Cannon House Office Building Washington DC 20515-3005",
+"office": "203 Cannon House Office Building",
+"phone": "202-225-4465"
+}
+]
+},
+"2": {
+"id": {
+"bioguide": "V000133",
+"fec": [
+"H8NJ02166"
+],
+"govtrack": 412796,
+"wikipedia": "Jeff Van Drew",
+"wikidata": "Q6175202",
+"opensecrets": "N00042164",
+"google_entity_id": "kg:/m/08h3sl",
+"votesmart": 24685,
+"icpsr": 21980,
+"ballotpedia": "Jeff Van Drew"
+},
+"name": {
+"first": "Jefferson",
+"last": "Van Drew",
+"official_full": "Jefferson Van Drew"
+},
+"bio": {
+"gender": "M",
+"birthday": "1953-02-23"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 2,
+"party": "Republican",
+"party_affiliations": [
+{
+"start": "2019-01-03",
+"end": "2019-12-18",
+"party": "Democrat"
+},
+{
+"start": "2019-12-19",
+"end": "2021-01-03",
+"party": "Republican"
+}
+],
+"phone": "202-225-6572",
+"address": "331 Cannon House Office Building Washington DC 20515-3002",
+"office": "331 Cannon House Office Building",
+"url": "https://vandrew.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 2,
+"party": "Republican",
+"url": "https://vandrew.house.gov",
+"address": "2447 Rayburn House Office Building Washington DC 20515-3002",
+"office": "2447 Rayburn House Office Building",
+"phone": "202-225-6572"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 2,
+"party": "Republican",
+"url": "https://vandrew.house.gov",
+"address": "2447 Rayburn House Office Building Washington DC 20515-3002",
+"office": "2447 Rayburn House Office Building",
+"phone": "202-225-6572"
+}
+]
+},
+"3": {
+"id": {
+"bioguide": "K000394",
+"fec": [
+"H8NJ03206"
+],
+"govtrack": 412797,
+"wikipedia": "Andy Kim (politician)",
+"wikidata": "Q55639180",
+"opensecrets": "N00041370",
+"icpsr": 21937,
+"google_entity_id": "kg:/g/11f730yxds",
+"ballotpedia": "Andrew Kim (New Jersey)",
+"votesmart": 179640
+},
+"name": {
+"first": "Andy",
+"last": "Kim",
+"official_full": "Andy Kim"
+},
+"bio": {
+"gender": "M",
+"birthday": "1982-07-12"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 3,
+"party": "Democrat",
+"phone": "202-225-4765",
+"address": "1516 Longworth House Office Building Washington DC 20515-3003",
+"office": "1516 Longworth House Office Building",
+"url": "https://kim.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 3,
+"party": "Democrat",
+"url": "https://kim.house.gov",
+"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
+"office": "2444 Rayburn House Office Building",
+"phone": "202-225-4765"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 3,
+"party": "Democrat",
+"url": "https://kim.house.gov",
+"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
+"office": "2444 Rayburn House Office Building",
+"phone": "202-225-4765"
+}
+]
+},
+"11": {
+"id": {
+"bioguide": "S001207",
+"fec": [
+"H8NJ11142"
+],
+"govtrack": 412799,
+"wikipedia": "Mikie Sherrill",
+"wikidata": "Q47087146",
+"opensecrets": "N00041154",
+"votesmart": 179651,
+"ballotpedia": "Mikie Sherrill",
+"icpsr": 21964,
+"google_entity_id": "kg:/g/11f3r4x6x5"
+},
+"name": {
+"first": "Mikie",
+"last": "Sherrill",
+"official_full": "Mikie Sherrill"
+},
+"bio": {
+"gender": "F",
+"birthday": "1972-01-19"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 11,
+"party": "Democrat",
+"phone": "202-225-5034",
+"address": "1208 Longworth House Office Building Washington DC 20515-3011",
+"office": "1208 Longworth House Office Building",
+"url": "https://sherrill.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 11,
+"party": "Democrat",
+"url": "https://sherrill.house.gov",
+"address": "1414 Longworth House Office Building Washington DC 20515-3011",
+"office": "1414 Longworth House Office Building",
+"phone": "202-225-5034"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 11,
+"party": "Democrat",
+"url": "https://sherrill.house.gov",
+"address": "1427 Longworth House Office Building Washington DC 20515-3011",
+"office": "1427 Longworth House Office Building",
+"phone": "202-225-5034"
+}
+]
+},
+"7": {
+"id": {
+"bioguide": "K000398",
+"fec": [
+"H0NJ07261"
+],
+"govtrack": 456917,
+"opensecrets": "N00027502",
+"wikidata": "Q7791445",
+"wikipedia": "Thomas Kean Jr.",
+"ballotpedia": "Thomas Kean Jr.",
+"votesmart": 43250
+},
+"name": {
+"first": "Thomas",
+"middle": "Howard",
+"last": "Kean",
+"suffix": "Jr.",
+"official_full": "Thomas H. Kean, Jr."
+},
+"bio": {
+"gender": "M",
+"birthday": "1968-09-05"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 7,
+"party": "Republican",
+"url": "https://kean.house.gov",
+"address": "251 Cannon House Office Building Washington DC 20515-3007",
+"office": "251 Cannon House Office Building",
+"phone": "202-225-5361"
+}
+]
+},
+"8": {
+"id": {
+"bioguide": "M001226",
+"fec": [
+"H2NJ08232"
+],
+"govtrack": 456918,
+"opensecrets": "N00049686",
+"wikidata": "Q115137457",
+"wikipedia": "Rob Menendez",
+"votesmart": 205678
+},
+"name": {
+"first": "Robert",
+"middle": "Jacobsen",
+"last": "Menendez",
+"suffix": "Jr.",
+"official_full": "Robert Menendez"
+},
+"bio": {
+"gender": "M",
+"birthday": "1985-07-12"
+},
+"terms": [
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2025-01-03",
+"state": "NJ",
+"district": 8,
+"party": "Democrat",
+"url": "https://menendez.house.gov",
+"address": "1007 Longworth House Office Building Washington DC 20515-3008",
+"office": "1007 Longworth House Office Building",
+"phone": "202-225-7919"
+}
+]
+}
 },
 "MP": {
 "senators": [
