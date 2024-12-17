@@ -34782,9 +34782,11 @@
 }
 ]
 },
-"30": {
+"senators": [
+{
 "id": {
 "bioguide": "S001150",
+"lis": "S427",
 "thomas": "01635",
 "govtrack": 400361,
 "opensecrets": "N00009585",
@@ -34944,7 +34946,7 @@
 {
 "type": "rep",
 "start": "2023-01-03",
-"end": "2025-01-03",
+"end": "2024-12-08",
 "state": "CA",
 "district": 30,
 "party": "Democrat",
@@ -34953,9 +34955,92 @@
 "address": "2309 Rayburn House Office Building Washington DC 20515-0530",
 "office": "2309 Rayburn House Office Building",
 "phone": "202-225-4176"
+},
+{
+"type": "sen",
+"start": "2024-12-09",
+"end": "2025-01-03",
+"how": "special-election",
+"state": "CA",
+"party": "Democrat",
+"class": 1,
+"state_rank": "junior"
 }
 ]
 },
+{
+"id": {
+"bioguide": "P000145",
+"lis": "S413",
+"fec": [
+"S2CA00955"
+],
+"opensecrets": "N00047888",
+"govtrack": 456856,
+"wikipedia": "Alex Padilla",
+"wikidata": "Q4717593",
+"ballotpedia": "Alex Padilla",
+"votesmart": 59742,
+"pictorial": 13341
+},
+"name": {
+"first": "Alejandro",
+"nickname": "Alex",
+"last": "Padilla",
+"official_full": "Alex Padilla"
+},
+"bio": {
+"gender": "M",
+"birthday": "1973-03-22"
+},
+"terms": [
+{
+"type": "sen",
+"start": "2021-01-20",
+"end": "2022-12-21",
+"how": "appointment",
+"state": "CA",
+"class": 3,
+"party": "Democrat",
+"state_rank": "junior",
+"address": "112 Hart Senate Office Building Washington DC 20510",
+"office": "112 Hart Senate Office Building",
+"phone": "202-224-3553",
+"url": "https://www.padilla.senate.gov",
+"contact_form": "https://www.padilla.senate.gov/contact/"
+},
+{
+"type": "sen",
+"start": "2022-12-22",
+"end": "2023-01-03",
+"how": "special-election",
+"state": "CA",
+"class": 3,
+"party": "Democrat",
+"state_rank": "junior",
+"address": "112 Hart Senate Office Building Washington DC 20510",
+"office": "112 Hart Senate Office Building",
+"phone": "202-224-3553",
+"url": "https://www.padilla.senate.gov",
+"contact_form": "https://www.padilla.senate.gov/contact/"
+},
+{
+"type": "sen",
+"start": "2023-01-03",
+"end": "2029-01-03",
+"state": "CA",
+"class": 3,
+"state_rank": "senior",
+"party": "Democrat",
+"url": "https://www.padilla.senate.gov",
+"contact_form": "https://www.padilla.senate.gov/contact/",
+"address": "331 Hart Senate Office Building Washington DC 20510",
+"office": "331 Hart Senate Office Building",
+"phone": "202-224-3553"
+}
+]
+}
+],
 "32": {
 "id": {
 "bioguide": "S000344",
@@ -38422,118 +38507,6 @@
 }
 ]
 },
-"senators": [
-{
-"id": {
-"bioguide": "P000145",
-"lis": "S413",
-"fec": [
-"S2CA00955"
-],
-"opensecrets": "N00047888",
-"govtrack": 456856,
-"wikipedia": "Alex Padilla",
-"wikidata": "Q4717593",
-"ballotpedia": "Alex Padilla",
-"votesmart": 59742,
-"pictorial": 13341
-},
-"name": {
-"first": "Alejandro",
-"nickname": "Alex",
-"last": "Padilla",
-"official_full": "Alex Padilla"
-},
-"bio": {
-"gender": "M",
-"birthday": "1973-03-22"
-},
-"terms": [
-{
-"type": "sen",
-"start": "2021-01-20",
-"end": "2022-12-21",
-"how": "appointment",
-"state": "CA",
-"class": 3,
-"party": "Democrat",
-"state_rank": "junior",
-"address": "112 Hart Senate Office Building Washington DC 20510",
-"office": "112 Hart Senate Office Building",
-"phone": "202-224-3553",
-"url": "https://www.padilla.senate.gov",
-"contact_form": "https://www.padilla.senate.gov/contact/"
-},
-{
-"type": "sen",
-"start": "2022-12-22",
-"end": "2023-01-03",
-"how": "special-election",
-"state": "CA",
-"class": 3,
-"party": "Democrat",
-"state_rank": "junior",
-"address": "112 Hart Senate Office Building Washington DC 20510",
-"office": "112 Hart Senate Office Building",
-"phone": "202-224-3553",
-"url": "https://www.padilla.senate.gov",
-"contact_form": "https://www.padilla.senate.gov/contact/"
-},
-{
-"type": "sen",
-"start": "2023-01-03",
-"end": "2029-01-03",
-"state": "CA",
-"class": 3,
-"state_rank": "senior",
-"party": "Democrat",
-"url": "https://www.padilla.senate.gov",
-"contact_form": "https://www.padilla.senate.gov/contact/",
-"address": "331 Hart Senate Office Building Washington DC 20510",
-"office": "331 Hart Senate Office Building",
-"phone": "202-224-3553"
-}
-]
-},
-{
-"id": {
-"bioguide": "B001320",
-"lis": "S424",
-"govtrack": 456954,
-"wikipedia": "Laphonza Butler",
-"wikidata": "Q121337973",
-"ballotpedia": "Laphonza Butler",
-"pictorial": 13436
-},
-"name": {
-"first": "Laphonza",
-"middle": "Romanique",
-"last": "Butler",
-"official_full": "Laphonza R. Butler"
-},
-"bio": {
-"gender": "F",
-"birthday": "1979-05-11"
-},
-"terms": [
-{
-"type": "sen",
-"start": "2023-10-03",
-"end": "2025-01-03",
-"how": "appointment",
-"state": "CA",
-"class": 1,
-"party": "Democrat",
-"state_rank": "junior",
-"url": "https://www.butler.senate.gov",
-"contact_form": "https://www.butler.senate.gov/share-your-opinion/",
-"address": "112 Hart Senate Office Building Washington DC 20510",
-"office": "112 Hart Senate Office Building",
-"phone": "202-224-3841"
-}
-]
-}
-],
 "3": {
 "id": {
 "bioguide": "K000401",
@@ -44624,70 +44597,6 @@
 "contact_form": "https://www.cramer.senate.gov/contact/contact-kevin"
 }
 ]
-},
-{
-"id": {
-"bioguide": "A000377",
-"fec": [
-"H8ND00096"
-],
-"govtrack": 412794,
-"opensecrets": "N00042868",
-"wikipedia": "Kelly Armstrong",
-"wikidata": "Q50362353",
-"votesmart": 139338,
-"icpsr": 21901,
-"ballotpedia": "Kelly Armstrong",
-"google_entity_id": "kg:/g/11hcszksh3",
-"pictorial": 13144
-},
-"name": {
-"first": "Kelly",
-"last": "Armstrong",
-"official_full": "Kelly Armstrong"
-},
-"bio": {
-"gender": "M",
-"birthday": "1976-10-08"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "ND",
-"district": 0,
-"party": "Republican",
-"phone": "202-225-2611",
-"address": "1004 Longworth House Office Building Washington DC 20515-3400",
-"office": "1004 Longworth House Office Building",
-"url": "https://armstrong.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "ND",
-"district": 0,
-"party": "Republican",
-"url": "https://armstrong.house.gov",
-"address": "1740 Longworth House Office Building Washington DC 20515-3400",
-"office": "1740 Longworth House Office Building",
-"phone": "202-225-2611"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "ND",
-"district": 0,
-"party": "Republican",
-"url": "https://armstrong.house.gov",
-"address": "2235 Rayburn House Office Building Washington DC 20515-3400",
-"office": "2235 Rayburn House Office Building",
-"phone": "202-225-2611"
-}
-]
 }
 ]
 },
@@ -47941,37 +47850,75 @@
 },
 {
 "id": {
-"bioguide": "H001097",
-"lis": "S425",
-"govtrack": 456961,
-"wikipedia": "George Helmy",
-"wikidata": "Q129127964",
-"ballotpedia": "George Helmy"
+"bioguide": "K000394",
+"lis": "S426",
+"fec": [
+"H8NJ03206"
+],
+"govtrack": 412797,
+"wikipedia": "Andy Kim (politician)",
+"wikidata": "Q55639180",
+"opensecrets": "N00041370",
+"icpsr": 21937,
+"google_entity_id": "kg:/g/11f730yxds",
+"ballotpedia": "Andrew Kim (New Jersey)",
+"votesmart": 179640,
+"pictorial": 13152
 },
 "name": {
-"first": "George",
-"middle": "S.",
-"last": "Helmy",
-"official_full": "George S. Helmy"
+"first": "Andy",
+"last": "Kim",
+"official_full": "Andy Kim"
 },
 "bio": {
 "gender": "M",
-"birthday": "1979-10-27"
+"birthday": "1982-07-12"
 },
 "terms": [
 {
+"type": "rep",
+"start": "2019-01-03",
+"end": "2021-01-03",
+"state": "NJ",
+"district": 3,
+"party": "Democrat",
+"phone": "202-225-4765",
+"address": "1516 Longworth House Office Building Washington DC 20515-3003",
+"office": "1516 Longworth House Office Building",
+"url": "https://kim.house.gov"
+},
+{
+"type": "rep",
+"start": "2021-01-03",
+"end": "2023-01-03",
+"state": "NJ",
+"district": 3,
+"party": "Democrat",
+"url": "https://kim.house.gov",
+"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
+"office": "2444 Rayburn House Office Building",
+"phone": "202-225-4765"
+},
+{
+"type": "rep",
+"start": "2023-01-03",
+"end": "2024-12-08",
+"state": "NJ",
+"district": 3,
+"party": "Democrat",
+"url": "https://kim.house.gov",
+"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
+"office": "2444 Rayburn House Office Building",
+"phone": "202-225-4765"
+},
+{
 "type": "sen",
-"start": "2024-09-09",
+"start": "2024-12-09",
 "end": "2025-01-03",
-"how": "appointment",
 "state": "NJ",
 "class": 1,
-"party": "Democrat",
 "state_rank": "junior",
-"url": "https://www.helmy.senate.gov",
-"address": "528 Hart Senate Office Building Washington DC 20510",
-"office": "528 Hart Senate Office Building",
-"phone": "202-224-4744"
+"party": "Democrat"
 }
 ]
 }
@@ -48329,70 +48276,6 @@
 "address": "2447 Rayburn House Office Building Washington DC 20515-3002",
 "office": "2447 Rayburn House Office Building",
 "phone": "202-225-6572"
-}
-]
-},
-"3": {
-"id": {
-"bioguide": "K000394",
-"fec": [
-"H8NJ03206"
-],
-"govtrack": 412797,
-"wikipedia": "Andy Kim (politician)",
-"wikidata": "Q55639180",
-"opensecrets": "N00041370",
-"icpsr": 21937,
-"google_entity_id": "kg:/g/11f730yxds",
-"ballotpedia": "Andrew Kim (New Jersey)",
-"votesmart": 179640,
-"pictorial": 13152
-},
-"name": {
-"first": "Andy",
-"last": "Kim",
-"official_full": "Andy Kim"
-},
-"bio": {
-"gender": "M",
-"birthday": "1982-07-12"
-},
-"terms": [
-{
-"type": "rep",
-"start": "2019-01-03",
-"end": "2021-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat",
-"phone": "202-225-4765",
-"address": "1516 Longworth House Office Building Washington DC 20515-3003",
-"office": "1516 Longworth House Office Building",
-"url": "https://kim.house.gov"
-},
-{
-"type": "rep",
-"start": "2021-01-03",
-"end": "2023-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat",
-"url": "https://kim.house.gov",
-"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
-"office": "2444 Rayburn House Office Building",
-"phone": "202-225-4765"
-},
-{
-"type": "rep",
-"start": "2023-01-03",
-"end": "2025-01-03",
-"state": "NJ",
-"district": 3,
-"party": "Democrat",
-"url": "https://kim.house.gov",
-"address": "2444 Rayburn House Office Building Washington DC 20515-3003",
-"office": "2444 Rayburn House Office Building",
-"phone": "202-225-4765"
 }
 ]
 },
