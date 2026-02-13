@@ -1,7 +1,7 @@
 -r base.txt
 
 # Linters
-black==21.7b0  # https://github.com/psf/black
+black==23.1.0  # https://github.com/psf/black
 isort==5.9.3  # https://pycqa.github.io/isort/
 pre-commit==2.14.0  # https://pre-commit.com/
 
