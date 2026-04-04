@@ -26,7 +26,6 @@ from src.config import BASE_DIR
 from src.exceptions import NotFoundError, ValidationError
 from src.representatives import get_federal_representatives
 
-
 if TYPE_CHECKING:
     from starlette.requests import Request
 # Only 16-25kb of memory
