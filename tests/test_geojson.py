@@ -16,7 +16,6 @@ import pytest
 
 from src.app import GEOJSON, get_federal_district
 
-
 votable = set(range(len(GEOJSON)))
 
 
