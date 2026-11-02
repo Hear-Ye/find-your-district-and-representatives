@@ -18,7 +18,6 @@ from typing import Optional, Union
 from src.config import BASE_DIR
 from src.exceptions import NotFoundError, ValidationError
 
-
 CURRENT_LEGISLATORS = json.loads((BASE_DIR / "legislators-current.json").read_text())
 
 
